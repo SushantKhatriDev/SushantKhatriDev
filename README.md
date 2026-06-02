@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sushant Khatri | Runexel Dev</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate software developer currently crushing Harvard's CS50x 🧠</h3>
+<h3 align="center">A passionate software developer currently crushing Harvard's CS50x & Stanford's CodeInPlace 🧠 🐍</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **CS50x and building my digital brand**
+- 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital brand**
 - 🌱 I’m currently learning **C, Python, and advanced computer science logic**
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
