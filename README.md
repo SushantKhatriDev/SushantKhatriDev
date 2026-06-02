@@ -11,10 +11,11 @@
 
 - 🔭 I’m currently working on **CS50x and building my digital brand**
 - 🌱 I’m currently learning **C, Python, and advanced computer science logic**
-- 👨‍💻 All of my projects are available at [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
-- 📝 I regularly write articles on [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/)
+- 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
+- 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
+- 📝 Tech & Dev Blog: [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/)
 - 💬 Ask me about **Coding, game design, and content creation**
-- 📫 How to reach me **Through my YouTube channels or blog**
+- 📫 How to reach me **Through my YouTube channels or blogs**
 
 ---
 
