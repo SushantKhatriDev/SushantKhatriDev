@@ -45,10 +45,17 @@
 
 ### 📊 Live Developer Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushantKhatriDev&show_icons=true&theme=radical&hide_border=true" alt="SushantKhatriDev stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=SushantKhatriDev&theme=radical&hide_border=true" alt="SushantKhatriDev streak" height="160" />
+  <!-- Clicking stats or streak now cleanly forwards visitors to your website safely -->
+  <a href="https://sushantkhatri.pages.dev/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=SushantKhatriDev&show_icons=true&theme=radical&hide_border=true" alt="SushantKhatriDev stats" height="160" />
+  </a>
+  <a href="https://sushantkhatri.pages.dev/" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=SushantKhatriDev&theme=radical&hide_border=true" alt="SushantKhatriDev streak" height="160" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=f75f1c&style=flat-square" alt="SushantKhatriDev views" />
+  <a href="https://sushantkhatri.pages.dev/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=f75f1c&style=flat-square" alt="SushantKhatriDev views" />
+  </a>
 </p>
