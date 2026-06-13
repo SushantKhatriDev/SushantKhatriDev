@@ -36,6 +36,16 @@
 
 ---
 
+### 🏢 Connect with my GitHub Organizations:
+
+| Org Icon | Organization Name | Content & Purpose Focus | Link |
+| :---: | :--- | :--- | :---: |
+| 💻 | **Runexel** | Coding Channel: Scripts, devlogs, and tutorial projects | [Explore Hub 🛠️](https://github.com/Runexel) |
+| 💎 | **Sutomiuxe** | Gaming Assets: Community open-source code and files | [Explore Hub ✨](https://github.com/Sutomiuxe) |
+| ⚔️ | **NexusFrag** | Team Hub: Collaborative projects and community updates | [Explore Hub 🚀](https://github.com/NexusFrag) |
+
+---
+
 ### 🎥 Connect with me on YouTube:
 
 | Channel Icon | Channel Name | Content Focus | Link |
