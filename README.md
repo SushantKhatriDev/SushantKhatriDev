@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sushant Khatri | Runexel Dev</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate software developer currently crushing Harvard's CS50x & Stanford's CodeInPlace 🧠 🐍</h3>
+<h3 align="center">A passionate software developer crushing CS50x & CodeInPlace by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital brand**
+- 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital creator brand**
 - 🌱 I’m currently learning **C, Python, and advanced computer science logic**
+- 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
 - 🦊 GitLab Profile: [gitlab.com/SushantKhatri](https://gitlab.com/SushantKhatri)
@@ -50,9 +51,9 @@
 
 | Channel Icon | Channel Name | Content Focus | Link |
 | :---: | :--- | :--- | :---: |
-| ⚔️ | **Sutolix** | Main Hub: Gaming challenges, Blox Fruits, and streams | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
+| ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
 | 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
-| 💎 | **Sutolix Extra** | Bonus Content: Community clips and updates | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
+| 💎 | **Sutolix Extra** | Bonus Content: Fun community clips, casual hangouts, and updates | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
 
 ---
 
@@ -62,7 +63,7 @@
     <img src="https://img.youtube.com/vi/2IpsfxQfY3k/hqdefault.jpg" alt="Watch my latest content" width="400" style="border-radius: 12px; border: 2px solid #F75F1C;" />
   </a>
   <br>
-  <i>🔺 Click the thumbnail above to jump directly to my latest track! 🔺</i>
+  <i>🔺 Click the thumbnail above to jump directly to my latest content! 🔺</i>
 </p>
 
 ---
