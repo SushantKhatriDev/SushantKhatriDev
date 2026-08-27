@@ -49,12 +49,11 @@
 
 ### 🎥 Connect with me on YouTube:
 
-| Channel Icon | Channel Name | Content Focus & Language Rule | Link |
+| Channel Icon | Channel Name | Content Focus | Link |
 | :---: | :--- | :--- | :---: |
-| 🏛️ | **SushantKhatriDev** | Tech Hub: Linux Mint & CS50x (English Only) | [Subscribe 🛠️](https://github.com/SushantKhatriDev) |
-| ⚔️ | **Sutolix** | Viral Sandbox: News & Commentary (Nepali or English - Never mix) | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
-| 🎮 | **Sutomiuxe** | Gaming: Minecraft & Roblox (English text / No Commentary) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
-| 🚀 | **Runexel** | Software Devlogs: Building apps from scratch (English Only) | [Subscribe 💻](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
+| ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
+| 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
+| 💎 | **Sutolix Extra** | Bonus Content: Fun community clips, casual hangouts, and updates | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
 
 ---
 
