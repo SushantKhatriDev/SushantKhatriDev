@@ -54,7 +54,7 @@
 | :---: | :--- | :--- | :---: |
 | ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
 | 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
-| 💎 | **Sutomiuxe** | Gaming Channel: Minecraft, Roblox (No Commentary / ASMR) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
+| 💎 | **Sutomiuxe** | Gaming Channel: Minecraft, Roblox (Optional Commentary / Gameplay) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
 
 ---
 
