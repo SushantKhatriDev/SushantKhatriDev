@@ -14,11 +14,12 @@
 - 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
+- 👔 LinkedIn Profile: [linkedin.com/in/sushantkhatridev](https://www.linkedin.com/in/sushantkhatridev/)
 - 🦊 GitLab Profile: [gitlab.com/SushantKhatri](https://gitlab.com/SushantKhatri)
 - 🏢 GitLab Dev Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
 - 📝 Tech & Dev Blog: [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/)
 - 💬 Ask me about **Coding, game design, and content creation**
-- 📫 How to reach me **Through my YouTube channels, GitLab, or blogs**
+- 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
 ---
 
@@ -53,7 +54,7 @@
 | :---: | :--- | :--- | :---: |
 | ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
 | 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
-| 💎 | **Sutolix Extra** | Bonus Content: Fun community clips, casual hangouts, and updates | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
+| 💎 | **Sutomiuxe** | Gaming Channel: Minecraft, Roblox (No Commentary / ASMR) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
 
 ---
 
