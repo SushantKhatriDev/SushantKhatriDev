@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sushant Khatri | Runexel Dev</h1>
+
+<p align="center">
+  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="320" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
 </p>
@@ -14,7 +19,7 @@
 - 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
-- 👔 LinkedIn Profile: [linkedin.com/in/sushantkhatridev](https://www.linkedin.com/in/sushantkhatridev/)
+- 👔 LinkedIn Profile: [linkedin.com/in/sushantkhatridev](https://linkedin.com/in/sushantkhatridev)
 - 🦊 GitLab Profile: [gitlab.com/SushantKhatri](https://gitlab.com/SushantKhatri)
 - 🏢 GitLab Dev Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
 - 📝 Tech & Dev Blog: [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/)
