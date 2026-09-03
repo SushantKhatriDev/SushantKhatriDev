@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Khatri | Runexel Dev</h1>
 
 <p align="center">
-  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="320" />
+  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
 </p>
 
 <p align="center">
@@ -86,6 +86,6 @@
 
 <p align="center">
   <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=f75f1c&style=flat-square" alt="SushantKhatriDev views" />
+    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=f75f1c&style=flat-square" alt="SushantKhatriDev views" />
   </a>
 </p>
