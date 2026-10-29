@@ -2,18 +2,25 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20CS50x%20%C2%B7%20Gamer%20%C2%B7%20Creator&descSize=16&descAlignY=62"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20Software%20Developer%20%C2%B7%20Creator&descSize=16&descAlignY=60"
 />
 
 <p align="center">
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75F1C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5"
+    alt="Typing SVG"
+  />
+</a>
 
-<h3 align="center">A passionate software developer crushing CS50x & CodeInPlace by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮</h3>
+<br />
+
+**A passionate software developer crushing CS50x & CodeInPlace by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮**
+
+<br />
 
 <p align="center">
   <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
@@ -33,9 +40,10 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 <br />
 
 <a href="#-about-me"><b>About</b></a>
-  ·    <a href="#-languages-and-tools"><b>Toolbox</b></a>
   ·    <a href="#-github-organizations"><b>Organizations</b></a>
   ·    <a href="#-youtube-channels"><b>YouTube</b></a>
+  ·    <a href="#-toolbox"><b>Toolbox</b></a>
+  ·    <a href="#-github-activity"><b>Activity</b></a>
 
 </div>
 
@@ -58,7 +66,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 - 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
 <details>
-<summary><b>▸ More about my background & goals</b></summary>
+<summary><b>▸ More about my background & vision</b></summary>
 
 <br />
 
@@ -66,9 +74,87 @@ I love combining deep computer science fundamentals with vibrant digital creatio
 
 </details>
 
+<br />
+
 ---
 
-## 🛠️ Languages and Tools:
+## 🏢 GitHub Organizations
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 💻 Runexel
+Coding Channel: Scripts, devlogs, and tutorial projects.
+
+[Explore Hub 🛠️](https://github.com/Runexel)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 💎 Sutomiuxe
+Gaming Assets: Community open-source code and files.
+
+[Explore Hub ✨](https://github.com/Sutomiuxe)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚔️ NexusFrag
+Team Hub: Collaborative projects and community updates.
+
+[Explore Hub 🚀](https://github.com/NexusFrag)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## 🎥 YouTube Channels
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ⚔️ Sutolix
+Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes.
+
+[Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 💻 Runexel
+Coding Channel: Code tutorials, devlogs, and scripts.
+
+[Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 💎 Sutomiuxe
+Gaming Channel: Gaming and entertainment content.
+
+[Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## ◇ Toolbox
+
+<div align="center">
 
 <p align="center">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>  
@@ -82,31 +168,107 @@ I love combining deep computer science fundamentals with vibrant digital creatio
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
 </p>
 
----
+<br />
 
-## 🏢 GitHub Organizations
+`C` · `C++` · `Python` · `JavaScript` · `Rust` · `Linux` · `HTML/CSS` · `Git`
 
-| Org Icon | Organization Name | Content & Purpose Focus | Link |
-| :---: | :--- | :--- | :---: |
-| 💻 | **Runexel** | Coding Channel: Scripts, devlogs, and tutorial projects | [Explore Hub 🛠️](https://github.com/Runexel) |
-| 💎 | **Sutomiuxe** | Gaming Assets: Community open-source code and files | [Explore Hub ✨](https://github.com/Sutomiuxe) |
-| ⚔️ | **NexusFrag** | Team Hub: Collaborative projects and community updates | [Explore Hub 🚀](https://github.com/NexusFrag) |
+</div>
+
+<br />
 
 ---
 
-## 🎥 YouTube Channels
+## ◇ GitHub Activity
 
-| Channel Icon | Channel Name | Content Focus | Link |
-| :---: | :--- | :--- | :---: |
-| ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
-| 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
-| 💎 | **Sutomiuxe** | Gaming Channel: Gaming and entertainment content | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
+<div align="center">
+
+### Building in public.
+
+<sub>Commits, code experiments, content creation, and constant iteration.</sub>
+
+<br />
+<br />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github"
+  />
+  <img
+    width="96%"
+    alt="Sushant's GitHub Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github"
+  />
+</picture>
+
+<br />
+<br />
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github"
+  />
+  <img
+    width="100%"
+    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github"
+  />
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github_dark&utcOffset=8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=8"
+  />
+  <img
+    width="100%"
+    alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=8"
+  />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img
+width="96%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SushantKhatriDev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+alt="Contribution Activity Graph"
+/>
+
+<br />
+
+</div>
+
+<br />
 
 ---
 
 <div align="center">
-
-<br />
 
 <a href="https://git.io/typing-svg">
   <img
@@ -116,10 +278,20 @@ I love combining deep computer science fundamentals with vibrant digital creatio
 </a>
 
 <br />
+
+**Software Developer · Creator · Open Source & Gaming**
+
 <br />
 
 <a href="https://sushantkhatri.pages.dev/" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
 </a>
+
+<br />
+<br />
+
+<sub>
+If something here is useful or fun to you, explore a repository, connect on LinkedIn, or check out my channels!
+</sub>
 
 </div>
