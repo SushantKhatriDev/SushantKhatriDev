@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sushant Khatri | Runexel Dev</h1>
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20Software%20Developer%20%C2%B7%20Creator&descSize=16&descAlignY=60"
+/>
 
 <p align="center">
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
@@ -24,6 +29,17 @@
     <img src="https://img.shields.io/badge/Dev_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
 </p>
+
+<br />
+
+<a href="#-about-me"><b>About</b></a>
+  ·    <a href="#-languages-and-tools"><b>Toolbox</b></a>
+  ·    <a href="#-connect-with-my-github-organizations"><b>Organizations</b></a>
+  ·    <a href="#-connect-with-me-on-youtube"><b>YouTube</b></a>
+
+</div>
+
+<br />
 
 ---
 
@@ -80,6 +96,6 @@
 
 <p align="center">
   <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
   </a>
 </p>
