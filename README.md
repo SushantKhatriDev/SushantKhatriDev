@@ -53,7 +53,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
 </p>
 
 ---
@@ -75,24 +75,6 @@
 | ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
 | 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
 | 💎 | **Sutomiuxe** | Gaming Channel: Minecraft, Roblox (Optional Commentary / Gameplay) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
-
----
-
-### 🎬 Featured Content Spotlight
-<p align="center">
-  <a href="https://youtube.com/shorts/2IpsfxQfY3k?si=2KSGecex23PHihNB" target="_blank">
-    <img src="https://img.githubusercontent.com/vi/2IpsfxQfY3k/hqdefault.jpg" alt="Watch my latest content" width="400" style="border-radius: 12px; border: 2px solid #F75F1C;" />
-  </a>
-  <br>
-  <i>🔺 Click the thumbnail above to jump directly to my latest content! 🔺</i>
-</p>
-
----
-
-### 🎵 Current Vibe
-<p align="center">
-  <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify?username=YOUR_SPOTIFY_USERNAME&theme=radical&display=block&border_radius=12" alt="Spotify Playing" />
-</p>
 
 ---
 
