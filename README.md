@@ -22,6 +22,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
+<!-- 🚀 MOVED UP: Social Badges right under intro for quick access -->
 <p align="center">
   <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,10 +40,11 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
+<!-- 🚀 MOVED UP: Jump navigation right after header elements -->
 <a href="#-about-me"><b>About</b></a>
+  ·    <a href="#-toolbox"><b>Toolbox</b></a>
   ·    <a href="#-github-organizations"><b>Organizations</b></a>
   ·    <a href="#-youtube-channels"><b>YouTube</b></a>
-  ·    <a href="#-toolbox"><b>Toolbox</b></a>
   ·    <a href="#-github-activity"><b>Activity</b></a>
 
 </div>
@@ -58,10 +60,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 - 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
-- 👔 LinkedIn Profile: [linkedin.com/in/sushantkhatridev](https://linkedin.com/in/sushantkhatridev)
-- 🦊 GitLab Profile: [gitlab.com/SushantKhatri](https://gitlab.com/SushantKhatri)
 - 🏢 GitLab Dev Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
-- 📝 Tech & Dev Blog: [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/)
 - 💬 Ask me about **Coding, game design, and content creation**
 - 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
@@ -73,6 +72,32 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 I love combining deep computer science fundamentals with vibrant digital creation. Whether it's building clean code pipelines, solving logic challenges in CS50x, or hosting live gaming sessions and reactions, my focus is always on building cool stuff and sharing the journey with the community.
 
 </details>
+
+<br />
+
+---
+
+## ◇ Toolbox
+
+<div align="center">
+
+<p align="center">  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>  
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/> </a>  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
+</p>
+
+<br />
+
+`C` · `C++` · `Python` · `JavaScript` · `Rust` · `Linux` · `HTML/CSS` · `Git`
+
+</div>
 
 <br />
 
@@ -147,32 +172,6 @@ Gaming Channel: Gaming and entertainment content.
 </td>
 </tr>
 </table>
-
-<br />
-
----
-
-## ◇ Toolbox
-
-<div align="center">
-
-<p align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>  
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/> </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
-</p>
-
-<br />
-
-`C` · `C++` · `Python` · `JavaScript` · `Rust` · `Linux` · `HTML/CSS` · `Git`
-
-</div>
 
 <br />
 
