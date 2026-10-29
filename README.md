@@ -74,16 +74,12 @@
 | :---: | :--- | :--- | :---: |
 | ⚔️ | **Sutolix** | Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes | [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U) |
 | 💻 | **Runexel** | Coding Channel: Code tutorials, devlogs, and scripts | [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1) |
-| 💎 | **Sutomiuxe** | Gaming Channel: Minecraft, Roblox (Optional Commentary / Gameplay) | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
+| 💎 | **Sutomiuxe** | Gaming Channel: Gaming and entertainment content | [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-) |
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SushantKhatriDev&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Sushant's Trophies" />
-</p>
-
-<p align="center">
   <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=F75F1C&style=flat-square" alt="Profile Views" />
   </a>
 </p>
