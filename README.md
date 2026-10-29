@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20Software%20Developer%20%C2%B7%20Creator&descSize=16&descAlignY=60"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20CS50x%20%C2%B7%20Gamer%20%C2%B7%20Creator&descSize=16&descAlignY=62"
 />
 
 <p align="center">
@@ -34,8 +34,8 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <a href="#-about-me"><b>About</b></a>
   ·    <a href="#-languages-and-tools"><b>Toolbox</b></a>
-  ·    <a href="#-connect-with-my-github-organizations"><b>Organizations</b></a>
-  ·    <a href="#-connect-with-me-on-youtube"><b>YouTube</b></a>
+  ·    <a href="#-github-organizations"><b>Organizations</b></a>
+  ·    <a href="#-youtube-channels"><b>YouTube</b></a>
 
 </div>
 
@@ -43,7 +43,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital creator brand**
 - 🌱 I’m currently learning **C, Python, and advanced computer science logic**
@@ -57,9 +57,19 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 - 💬 Ask me about **Coding, game design, and content creation**
 - 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
+<details>
+<summary><b>▸ More about my background & goals</b></summary>
+
+<br />
+
+I love combining deep computer science fundamentals with vibrant digital creation. Whether it's building clean code pipelines, solving logic challenges in CS50x, or hosting live gaming sessions and reactions, my focus is always on building cool stuff and sharing the journey with the community.
+
+</details>
+
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
+
 <p align="center">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>  
@@ -74,7 +84,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ---
 
-### 🏢 Connect with my GitHub Organizations:
+## 🏢 GitHub Organizations
 
 | Org Icon | Organization Name | Content & Purpose Focus | Link |
 | :---: | :--- | :--- | :---: |
@@ -84,7 +94,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ---
 
-### 🎥 Connect with me on YouTube:
+## 🎥 YouTube Channels
 
 | Channel Icon | Channel Name | Content Focus | Link |
 | :---: | :--- | :--- | :---: |
@@ -94,8 +104,22 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ---
 
-<p align="center">
-  <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
+<div align="center">
+
+<br />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=650&lines=Code+by+day.;Create+by+night.;Keep+building+awesome+things."
+    alt="Code by day. Create by night."
+  />
+</a>
+
+<br />
+<br />
+
+<a href="https://sushantkhatri.pages.dev/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+</a>
+
+</div>
