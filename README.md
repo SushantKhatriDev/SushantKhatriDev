@@ -276,7 +276,8 @@ alt="Contribution Activity Graph"
   </a>
 </p>
 
-<a href="https://git.io/typing-svg">
+<!-- ✨ UPDATED: Bottom typing SVG now takes you directly to your LinkedIn profile! -->
+<a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=650&lines=Code+by+day.;Create+by+night.;Keep+building+awesome+things."
     alt="Code by day. Create by night."
