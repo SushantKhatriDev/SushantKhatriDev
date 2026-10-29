@@ -9,41 +9,23 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5"
-    alt="Typing SVG"
-  />
-</a>
-
-<br />
-
-**A passionate software developer crushing CS50x & CodeInPlace by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮**
-
-<br />
-
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@runexel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://gitlab.com/SushantKhatri" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://sushantkhatridev.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5" alt="Typing SVG" />
   </a>
 </p>
 
-<br />
-
-<a href="#-about-me"><b>About</b></a>
-  ·    <a href="#-github-organizations"><b>Organizations</b></a>
-  ·    <a href="#-youtube-channels"><b>YouTube</b></a>
-  ·    <a href="#-toolbox"><b>Toolbox</b></a>
-  ·    <a href="#-github-activity"><b>Activity</b></a>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://linkedin.com/in/sushantkhatridev" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://youtube.com/@runexel" target="_blank"><img width="32px" alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://gitlab.com/SushantKhatri" target="_blank"><img width="32px" alt="GitLab" title="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://sushantkhatridev.blogspot.com/" target="_blank"><img width="32px" alt="Dev Blog" title="Dev Blog" src="https://img.shields.io/badge/Dev_Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -65,7 +47,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 - 💬 Ask me about **Coding, game design, and content creation**
 - 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
-<details>
+<details open>
 <summary><b>▸ More about my background & vision</b></summary>
 
 <br />
@@ -78,7 +60,10 @@ I love combining deep computer science fundamentals with vibrant digital creatio
 
 ---
 
-## 🏢 GitHub Organizations
+<details open>
+<summary><h2>🏢 GitHub Organizations</h2></summary>
+
+<br />
 
 <table>
 <tr>
@@ -111,11 +96,16 @@ Team Hub: Collaborative projects and community updates.
 </tr>
 </table>
 
+</details>
+
 <br />
 
 ---
 
-## 🎥 YouTube Channels
+<details open>
+<summary><h2>🎥 YouTube Channels</h2></summary>
+
+<br />
 
 <table>
 <tr>
@@ -148,11 +138,16 @@ Gaming Channel: Gaming and entertainment content.
 </tr>
 </table>
 
+</details>
+
 <br />
 
 ---
 
-## ◇ Toolbox
+<details open>
+<summary><h2>◇ Toolbox</h2></summary>
+
+<br />
 
 <div align="center">
 
@@ -174,11 +169,16 @@ Gaming Channel: Gaming and entertainment content.
 
 </div>
 
+</details>
+
 <br />
 
 ---
 
-## ◇ GitHub Activity
+<details open>
+<summary><h2>◇ GitHub Activity & Stats</h2></summary>
+
+<br />
 
 <div align="center">
 
@@ -260,9 +260,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SushantKhatr
 alt="Contribution Activity Graph"
 />
 
-<br />
-
 </div>
+
+</details>
 
 <br />
 
