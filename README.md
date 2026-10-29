@@ -79,7 +79,11 @@
 ---
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SushantKhatriDev&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Sushant's Trophies" />
+</p>
+
+<p align="center">
   <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%20Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
   </a>
 </p>
