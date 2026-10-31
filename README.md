@@ -255,8 +255,8 @@ Gaming Channel: Gaming and entertainment content.
 
 <img
 width="96%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=SushantKhatriDev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-alt="Contribution Activity Graph"
+src="https://github-readme-streak-stats.herokuapp.com?user=SushantKhatriDev&theme=transparent&hide_border=true&stroke=F75F1C&fire=F75F1C&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
+alt="GitHub Streak"
 />
 
 <br />
