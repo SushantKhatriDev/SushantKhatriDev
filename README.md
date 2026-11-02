@@ -269,14 +269,14 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<!-- GitHub Star link image added here -->
+<!-- GitHub Star link image fixed -->
 <p align="center">
   <a href="https://github.com/SushantKhatriDev">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/>
+    <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/images/github-star.png" alt="GitHub Star"/>
   </a>
 </p>
 
-<!-- ✨ UPDATED: Bottom typing SVG now takes you directly to your LinkedIn profile! -->
+<!-- ✨ Bottom typing SVG linked to LinkedIn -->
 <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=650&lines=Code+by+day.;Create+by+night.;Keep+building+awesome+things."
