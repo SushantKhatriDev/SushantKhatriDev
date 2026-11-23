@@ -235,16 +235,16 @@ Gaming Channel: Gaming and entertainment content.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github_dark&utcOffset=8"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github_dark&utcOffset=5.75"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=8"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=5.75"
   />
   <img
     width="100%"
     alt="Productive Time"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=8"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=5.75"
   />
 </picture>
 
@@ -270,16 +270,23 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<!-- GitHub Star & Achievements link -->
+<!-- 🏆 Earned GitHub Achievements -->
+<h3>🏆 GitHub Achievements</h3>
+
 <p align="center">
-  <a href="https://github.com/SushantKhatriDev?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/images/github-star.png" alt="GitHub Star & Achievements" />
+  <a href="https://github.com/SushantKhatriDev?achievement=yolo&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/YOLO-Achieved-F75F1C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement" />
   </a>
-  <br />
-  <a href="https://github.com/SushantKhatriDev?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/View_GitHub_Achievements_%26_Stars-F75F1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  <a href="https://github.com/SushantKhatriDev?achievement=pull-shark&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Pull_Shark-Achieved-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" />
   </a>
+  <a href="https://github.com/SushantKhatriDev?achievement=quickdraw&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Quickdraw-Achieved-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw Achievement" />
+  </a>
+  <!-- STAR_BADGE_START --><!-- STAR_BADGE_END -->
 </p>
+
+<br />
 
 <!-- ✨ Bottom typing SVG linked to LinkedIn -->
 <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
