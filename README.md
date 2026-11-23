@@ -1,9 +1,6 @@
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%26%20Creator&descSize=16&descAlignY=60"
-/>
+<img width="100%" src="banner.svg" alt="Sushant Khatri — Runexel · Builder & Creator" />
 
 <p align="center">
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
