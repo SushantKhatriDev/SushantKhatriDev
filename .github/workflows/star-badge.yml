@@ -1,0 +1,62 @@
+name: Auto Show Starstruck Badge
+
+on:
+  schedule:
+    # Runs automatically in a loop every 6 hours
+    - cron: '0 */6 * * *'
+  watch:
+    types: [started]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-star-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Check total stars and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - << 'EOF'
+          import json, urllib.request, re
+
+          url = "https://api.github.com/users/SushantKhatriDev/repos?per_page=100"
+          req = urllib.request.Request(url, headers={"User-Agent": "star-badge-checker"})
+          repos = json.loads(urllib.request.urlopen(req).read().decode())
+          total_stars = sum(r.get("stargazers_count", 0) for r in repos)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          if total_stars > 0:
+              badge = (
+                  '\n  <a href="https://github.com/SushantKhatriDev?achievement=starstruck&tab=achievements" target="_blank">'
+                  '\n    <img src="https://img.shields.io/badge/Starstruck_' + str(total_stars) + '_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />'
+                  '\n  </a>\n  '
+              )
+          else:
+              badge = ""
+
+          new_content = re.sub(
+              r"<!-- STAR_BADGE_START -->.*?<!-- STAR_BADGE_END -->",
+              f"<!-- STAR_BADGE_START -->{badge}<!-- STAR_BADGE_END -->",
+              content,
+              flags=re.DOTALL,
+          )
+
+          if new_content != content:
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new_content)
+          EOF
+
+      - name: Commit changes if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "chore: update Starstruck badge" && git push)
