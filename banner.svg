@@ -1,30 +1,109 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="45%" stop-color="#161B22" />
-      <stop offset="100%" stop-color="#2B140A" />
+      <stop offset="0%" stop-color="#090C10" />
+      <stop offset="52%" stop-color="#141923" />
+      <stop offset="100%" stop-color="#271108" />
     </linearGradient>
+
+    
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F75F1C" />
-      <stop offset="100%" stop-color="#FF9E44" />
+      <stop offset="50%" stop-color="#FF8C3B" />
+      <stop offset="100%" stop-color="#FFD166" />
     </linearGradient>
+
+    
+    <linearGradient id="backWaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.22" />
+      <stop offset="50%" stop-color="#FF8C3B" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#F75F1C" stop-opacity="0.26" />
+    </linearGradient>
+
+    
+    <radialGradient id="centerGlow" cx="50%" cy="46%" r="48%">
+      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.20" />
+      <stop offset="70%" stop-color="#F75F1C" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#090C10" stop-opacity="0" />
+    </radialGradient>
+
+    
+    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-width="0.6" stroke-opacity="0.035" />
+    </pattern>
+
+    
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="7" flood-color="#F75F1C" flood-opacity="0.30" />
+    </filter>
   </defs>
 
   
-  <path d="M0,0 L1200,0 L1200,175 Q900,225 600,180 T0,190 Z" fill="url(#bgGrad)" />
-  <path d="M0,185 Q300,145 600,175 T1200,170 L1200,178 Q900,228 600,183 T0,193 Z" fill="url(#accentGrad)" opacity="0.85" />
+  <path d="M0,0 L1200,0 L1200,202 Q920,246 600,199 T0,213 Z" fill="url(#backWaveGrad)" />
 
   
-  <circle cx="1080" cy="65" r="90" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.15" fill="none" />
-  <circle cx="1080" cy="65" r="55" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.25" fill="none" />
-  <circle cx="120" cy="110" r="70" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.12" fill="none" />
+  <path d="M0,0 L1200,0 L1200,186 Q900,236 600,189 T0,199 Z" fill="url(#bgGrad)" />
 
   
-  <text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1.5">
+  <path d="M0,0 L1200,0 L1200,186 Q900,236 600,189 T0,199 Z" fill="url(#techGrid)" />
+  <path d="M0,0 L1200,0 L1200,186 Q900,236 600,189 T0,199 Z" fill="url(#centerGlow)" />
+
+  
+  <path d="M0,196 Q300,153 600,186 T1200,183 L1200,189 Q900,239 600,192 T0,202 Z" fill="url(#accentGrad)" />
+
+  
+  <g opacity="0.75">
+    <circle cx="132" cy="102" r="84" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.13" stroke-dasharray="5 5" fill="none" />
+    <circle cx="132" cy="102" r="48" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.22" fill="none" />
+    <line x1="56" y1="74" x2="98" y2="90" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.28" />
+    <line x1="98" y1="90" x2="132" y2="102" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.35" />
+    <line x1="72" y1="138" x2="132" y2="102" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.22" />
+    <circle cx="56" cy="74" r="3" fill="#FF8C3B" />
+    <circle cx="98" cy="90" r="3" fill="#FFD166" />
+    <circle cx="72" cy="138" r="2.5" fill="#F75F1C" />
+    <circle cx="132" cy="102" r="4" fill="#F75F1C" />
+  </g>
+
+  
+  <g opacity="0.75">
+    <circle cx="1068" cy="102" r="88" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.14" fill="none" />
+    <circle cx="1068" cy="102" r="54" stroke="#FFD166" stroke-width="1" stroke-opacity="0.20" stroke-dasharray="8 6" fill="none" />
+    <line x1="1068" y1="102" x2="1114" y2="82" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.32" />
+    <line x1="1114" y1="82" x2="1152" y2="116" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.26" />
+    <line x1="1068" y1="102" x2="1126" y2="142" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.22" />
+    <circle cx="1068" cy="102" r="4" fill="#FF8C3B" />
+    <circle cx="1114" cy="82" r="3" fill="#FFD166" />
+    <circle cx="1152" cy="116" r="3" fill="#F75F1C" />
+    <circle cx="1126" cy="142" r="2.5" fill="#FF8C3B" />
+  </g>
+
+  
+  <path d="M26,42 L26,22 L46,22" stroke="#F75F1C" stroke-width="1.75" stroke-opacity="0.55" fill="none" />
+  <path d="M1174,42 L1174,22 L1154,22" stroke="#F75F1C" stroke-width="1.75" stroke-opacity="0.55" fill="none" />
+  <path d="M26,154 L26,174 L46,174" stroke="#F75F1C" stroke-width="1.25" stroke-opacity="0.30" fill="none" />
+  <path d="M1174,154 L1174,174 L1154,174" stroke="#F75F1C" stroke-width="1.25" stroke-opacity="0.30" fill="none" />
+
+  
+  <rect x="455" y="24" width="290" height="24" rx="12" fill="#F75F1C" fill-opacity="0.14" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.45" />
+  <circle cx="474" cy="36" r="3.5" fill="#FF8C3B" />
+  <text x="608" y="40" text-anchor="middle" fill="#FFB380" font-family="&#39;Fira Code&#39;, monospace, sans-serif" font-size="11" font-weight="600" letter-spacing="1.8">
+    GAMES · AI AGENTS · WEB
+  </text>
+
+  
+  <text x="600" y="102" text-anchor="middle" fill="#FFFFFF" filter="url(#textGlow)" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="1.5">
     Sushant Khatri
   </text>
-  <text x="600" y="132" text-anchor="middle" fill="#F75F1C" font-family="&#39;Fira Code&#39;, monospace, sans-serif" font-size="18" font-weight="600" letter-spacing="2">
+
+  
+  <text x="600" y="138" text-anchor="middle" fill="url(#accentGrad)" font-family="&#39;Fira Code&#39;, monospace, sans-serif" font-size="17" font-weight="700" letter-spacing="2.6">
     RUNEXEL · BUILDER &amp; CREATOR
+  </text>
+
+  
+  <line x1="470" y1="154" x2="730" y2="154" stroke="#FFFFFF" stroke-width="0.75" stroke-opacity="0.12" />
+  <text x="600" y="172" text-anchor="middle" fill="#9BA3B4" font-family="&#39;Fira Code&#39;, monospace, sans-serif" font-size="10.5" font-weight="500" letter-spacing="2.2">
+    SOFTWARE · MODELS · INTERACTIVE WORLDS
   </text>
 </svg>
