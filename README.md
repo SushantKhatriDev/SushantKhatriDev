@@ -11,18 +11,18 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+Student+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+%26+Probability+for+AI+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5"
     alt="Typing SVG"
   />
 </a>
 
 <br />
 
-**A passionate software developer crushing CS50x & CodeInPlace by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮**
+**A passionate software developer crushing CS50x, CodeInPlace & Stanford Probability for AI by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮**
 
 <br />
 
-<!-- 🚀 MOVED UP: Social Badges right under intro for quick access -->
+<!-- 🚀 Social Badges right under intro for quick access -->
 <p align="center">
   <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -40,7 +40,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
-<!-- 🚀 MOVED UP: Jump navigation right after header elements -->
+<!-- 🚀 Jump navigation right after header elements -->
 <a href="#-about-me"><b>About</b></a>
   ·    <a href="#-toolbox"><b>Toolbox</b></a>
   ·    <a href="#-github-organizations"><b>Organizations</b></a>
@@ -56,7 +56,8 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital creator brand**
-- 🌱 I’m currently learning **C, Python, and advanced computer science logic**
+- 🎓 Recently completed **Stanford Probability for AI (PAI)**
+- 🌱 I’m currently learning **C, Python, probability for AI, and advanced computer science logic**
 - 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
@@ -69,7 +70,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
-I love combining deep computer science fundamentals with vibrant digital creation. Whether it's building clean code pipelines, solving logic challenges in CS50x, or hosting live gaming sessions and reactions, my focus is always on building cool stuff and sharing the journey with the community.
+I love combining deep computer science fundamentals with vibrant digital creation. Whether it's building clean code pipelines, solving logic challenges in CS50x and Stanford's AI/Python programs, or hosting live gaming sessions and reactions, my focus is always on building cool stuff and sharing the journey with the community.
 
 </details>
 
@@ -269,10 +270,14 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<!-- GitHub Star link image fixed -->
+<!-- GitHub Star & Achievements link -->
 <p align="center">
-  <a href="https://github.com/SushantKhatriDev">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/images/github-star.png" alt="GitHub Star"/>
+  <a href="https://github.com/SushantKhatriDev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/images/github-star.png" alt="GitHub Star & Achievements" />
+  </a>
+  <br />
+  <a href="https://github.com/SushantKhatriDev?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/View_GitHub_Achievements_%26_Stars-F75F1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
   </a>
 </p>
 
