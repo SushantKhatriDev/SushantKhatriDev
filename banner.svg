@@ -1,1 +1,30 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="45%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#2B140A" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F75F1C" />
+      <stop offset="100%" stop-color="#FF9E44" />
+    </linearGradient>
+  </defs>
 
+  
+  <path d="M0,0 L1200,0 L1200,175 Q900,225 600,180 T0,190 Z" fill="url(#bgGrad)" />
+  <path d="M0,185 Q300,145 600,175 T1200,170 L1200,178 Q900,228 600,183 T0,193 Z" fill="url(#accentGrad)" opacity="0.85" />
+
+  
+  <circle cx="1080" cy="65" r="90" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.15" fill="none" />
+  <circle cx="1080" cy="65" r="55" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.25" fill="none" />
+  <circle cx="120" cy="110" r="70" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.12" fill="none" />
+
+  
+  <text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1.5">
+    Sushant Khatri
+  </text>
+  <text x="600" y="132" text-anchor="middle" fill="#F75F1C" font-family="&#39;Fira Code&#39;, monospace, sans-serif" font-size="18" font-weight="600" letter-spacing="2">
+    RUNEXEL · BUILDER &amp; CREATOR
+  </text>
+</svg>
