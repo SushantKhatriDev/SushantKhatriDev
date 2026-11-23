@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20Dev%20%C2%B7%20Software%20Developer%20%C2%B7%20Creator&descSize=16&descAlignY=60"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%C2%B7%20Game%20%26%20AI%20Maker%20%C2%B7%20Creator&descSize=16&descAlignY=60"
 />
 
 <p align="center">
@@ -11,14 +11,14 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Harvard+CS50x+Student+%F0%9F%A7%A0;Stanford+CodeInPlace+%26+Probability+for+AI+%F0%9F%90%8D;Gamer%2C+Reactor+%26+Content+Creator+%F0%9F%8E%A5"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=820&lines=Builder+of+Software%2C+Games%2C+AI+Agents+%26+Web+%F0%9F%9A%80;Harvard+CS50x+%26+Stanford+AI%2FPython+Alumni+%F0%9F%A7%A0;Maker%2C+Reactor+%26+Digital+Creator+%F0%9F%8E%A5"
     alt="Typing SVG"
   />
 </a>
 
 <br />
 
-**A passionate software developer crushing CS50x, CodeInPlace & Stanford Probability for AI by day, and gaming, reacting, and having fun with everyone by night! 🧠 🎮**
+**Independent builder and creator crafting games, AI agents, models, software, and web experiences by day—and sharing builds, reactions, and ideas with the community by night! 🛠️ 🧠**
 
 <br />
 
@@ -55,14 +55,15 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **CS50x, CodeInPlace, and building my digital creator brand**
+- 🛠️ I’m an independent **builder & creator**—I don't just play games or use tools, **I make games, AI agents, models, software, and web apps** on my own terms
+- 🔭 Currently working on **CS50x, CodeInPlace, custom AI & game projects, and growing my creator ecosystem**
 - 🎓 Recently completed **Stanford Probability for AI (PAI)**
-- 🌱 I’m currently learning **C, Python, probability for AI, and advanced computer science logic**
-- 🎮 I love playing games, dropping live reactions, sharing thoughts, and having a blast with everyone!
+- 🌱 Deepening my craft in **C, Python, AI agents & models, game systems, and full-stack web**
+- 🎥 I love sharing live builds, reactions, thoughts, and interactive worlds with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
-- 🛠️ Developer Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
-- 🏢 GitLab Dev Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
-- 💬 Ask me about **Coding, game design, and content creation**
+- 🛠️ Builder Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
+- 🏢 GitLab Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
+- 💬 Ask me about **Game development, AI agents & models, web builds, and content creation**
 - 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
 
 <details>
@@ -70,7 +71,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
-I love combining deep computer science fundamentals with vibrant digital creation. Whether it's building clean code pipelines, solving logic challenges in CS50x and Stanford's AI/Python programs, or hosting live gaming sessions and reactions, my focus is always on building cool stuff and sharing the journey with the community.
+I build what I envision—managing my own path as a creator rather than fitting into a traditional box. By combining deep computer science fundamentals from CS50x and Stanford's AI/Python programs with hands-on execution, I turn ideas into playable games, autonomous AI agents, custom models, and web experiences while bringing the community along for the ride.
 
 </details>
 
@@ -111,7 +112,7 @@ I love combining deep computer science fundamentals with vibrant digital creatio
 <td width="33%" align="center" valign="top">
 
 ### 💻 Runexel
-Coding Channel: Scripts, devlogs, and tutorial projects.
+Builder Hub: AI agents, models, software, and web projects.
 
 [Explore Hub 🛠️](https://github.com/Runexel)
 
@@ -120,7 +121,7 @@ Coding Channel: Scripts, devlogs, and tutorial projects.
 <td width="33%" align="center" valign="top">
 
 ### 💎 Sutomiuxe
-Gaming Assets: Community open-source code and files.
+Game Creation Hub: Custom games, engines, and open-source assets.
 
 [Explore Hub ✨](https://github.com/Sutomiuxe)
 
@@ -129,7 +130,7 @@ Gaming Assets: Community open-source code and files.
 <td width="33%" align="center" valign="top">
 
 ### ⚔️ NexusFrag
-Team Hub: Collaborative projects and community updates.
+Team Hub: Collaborative builds and community releases.
 
 [Explore Hub 🚀](https://github.com/NexusFrag)
 
@@ -148,7 +149,7 @@ Team Hub: Collaborative projects and community updates.
 <td width="33%" align="center" valign="top">
 
 ### ⚔️ Sutolix
-Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and community vibes.
+Creator & Reactions: Live reactions, sharing thoughts, showcases, and community vibes.
 
 [Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U)
 
@@ -157,7 +158,7 @@ Gaming & Reactions: Fun gameplay, live reactions, talking thoughts, and communit
 <td width="33%" align="center" valign="top">
 
 ### 💻 Runexel
-Coding Channel: Code tutorials, devlogs, and scripts.
+Builder Channel: AI agents, software builds, devlogs, and code breakdowns.
 
 [Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1)
 
@@ -166,7 +167,7 @@ Coding Channel: Code tutorials, devlogs, and scripts.
 <td width="33%" align="center" valign="top">
 
 ### 💎 Sutomiuxe
-Gaming Channel: Gaming and entertainment content.
+Game Dev & Worlds: Building games, interactive demos, and creative entertainment.
 
 [Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-)
 
@@ -184,7 +185,7 @@ Gaming Channel: Gaming and entertainment content.
 
 ### Building in public.
 
-<sub>Commits, code experiments, content creation, and constant iteration.</sub>
+<sub>Games, AI agents, models, web apps, and constant iteration.</sub>
 
 <br />
 <br />
@@ -295,14 +296,14 @@ alt="GitHub Streak"
 <!-- ✨ Bottom typing SVG linked to LinkedIn -->
 <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=650&lines=Code+by+day.;Create+by+night.;Keep+building+awesome+things."
-    alt="Code by day. Create by night."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=680&lines=Build+games%2C+AI+%26+software+by+day.;Create+%26+share+with+the+world+by+night.;My+vision.+My+rules."
+    alt="Build games, AI & software by day. Create & share with the world by night."
   />
 </a>
 
 <br />
 
-**Software Developer · Creator · Open Source & Gaming**
+**Builder · Game & AI Maker · Web & Digital Creator**
 
 <br />
 
@@ -314,7 +315,7 @@ alt="GitHub Streak"
 <br />
 
 <sub>
-If something here is useful or fun to you, explore a repository, connect on LinkedIn, or check out my channels!
+If something here inspires you, explore a project, connect on LinkedIn, or check out my channels!
 </sub>
 
 </div>
