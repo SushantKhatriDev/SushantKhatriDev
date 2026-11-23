@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%C2%B7%20Game%20%26%20AI%20Maker%20%C2%B7%20Creator&descSize=16&descAlignY=60"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20,24&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%26%20Creator&descSize=16&descAlignY=60"
 />
 
 <p align="center">
@@ -11,7 +11,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=820&lines=Builder+of+Software%2C+Games%2C+AI+Agents+%26+Web+%F0%9F%9A%80;Harvard+CS50x+%26+Stanford+AI%2FPython+Alumni+%F0%9F%A7%A0;Maker%2C+Reactor+%26+Digital+Creator+%F0%9F%8E%A5"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Games%2C+AI+Agents+%26+Models+Builder+%F0%9F%9A%80;Systems%2C+Web+%26+Interactive+Worlds+%F0%9F%A7%A0;Software%2C+Web+%26+Creator+Studio+%F0%9F%8E%A5"
     alt="Typing SVG"
   />
 </a>
@@ -19,6 +19,10 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 <br />
 
 **Independent builder and creator crafting games, AI agents, models, software, and web experiences by day—and sharing builds, reactions, and ideas with the community by night! 🛠️ 🧠**
+
+<br />
+
+> *"Those who can imagine anything, can create the impossible."* — **Alan Turing**
 
 <br />
 
@@ -55,10 +59,10 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 ## 🚀 About Me
 
-- 🛠️ I’m an independent **builder & creator**—I don't just play games or use tools, **I make games, AI agents, models, software, and web apps** on my own terms
-- 🔭 Currently working on **CS50x, CodeInPlace, custom AI & game projects, and growing my creator ecosystem**
-- 🎓 Recently completed **Stanford Probability for AI (PAI)**
-- 🌱 Deepening my craft in **C, Python, AI agents & models, game systems, and full-stack web**
+- 🛠️ Independent **builder & creator**—I don't just play games or use tools, **I architect games, AI agents, custom models, software, and web platforms** on my own terms
+- 🔭 Currently shipping **autonomous AI agents, playable game systems, full-stack web apps, and my creator ecosystem**
+- ⚡ **Builder Facts:** Multi-org founder (**Runexel**, **Sutomiuxe**, **NexusFrag**) · Low-level systems (`C`, `C++`, `Rust`) to high-level AI & Web (`Python`, `JS`) · Shipping in public across GitHub & GitLab
+- 🧠 Core focus: **AI agent orchestration, custom model pipelines, game engines & mechanics, and modern web architecture**
 - 🎥 I love sharing live builds, reactions, thoughts, and interactive worlds with everyone!
 - 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
 - 🛠️ Builder Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
@@ -71,7 +75,9 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient
 
 <br />
 
-I build what I envision—managing my own path as a creator rather than fitting into a traditional box. By combining deep computer science fundamentals from CS50x and Stanford's AI/Python programs with hands-on execution, I turn ideas into playable games, autonomous AI agents, custom models, and web experiences while bringing the community along for the ride.
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+
+I build what I envision—managing my own path as a creator rather than fitting into a traditional box. Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous AI agents, custom models, and web experiences while bringing the community along for the ride.
 
 </details>
 
