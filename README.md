@@ -283,7 +283,11 @@ alt="GitHub Streak"
   <a href="https://github.com/SushantKhatriDev?achievement=quickdraw&tab=achievements" target="_blank">
     <img src="https://img.shields.io/badge/Quickdraw-Achieved-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw Achievement" />
   </a>
-  <!-- STAR_BADGE_START --><!-- STAR_BADGE_END -->
+  <!-- STAR_BADGE_START -->
+  <a href="https://github.com/SushantKhatriDev?achievement=starstruck&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Starstruck_21_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />
+  </a>
+  <!-- STAR_BADGE_END -->
 </p>
 
 <br />
