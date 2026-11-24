@@ -61,6 +61,8 @@
 
 > *"Those who can imagine anything, can create the impossible."* — **Alan Turing**
 
+> *"Never let anyone dictate what you want or try to control you—walk away and move on because you know your worth. Never hurt those who stand by you at your lowest, and never backstab anyone—I would rather die in loyalty than backstab."* — **Sushant Khatri**
+
 Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous agents, and web experiences while building in public with the community.
 
 </details>
@@ -230,7 +232,7 @@ Game development, playable demos, and creative worlds.
 
 <br /><br />
 
-<sub><b>My vision. My rules.</b> · Built in public across games, AI, and web.</sub>
+<sub><b>My vision. My rules.</b> · Loyalty over backstabbing · Built in public across games, AI, and web.</sub>
 <br />
 <sub>Solely created & owned by <b>Sushant Khatri</b> (<b>SushantKhatriDev</b> / <b>Runexel</b>) · Code: <a href="LICENSE">GPL-3.0</a> · Art, SVGs & Media: <a href="LICENSE-CC-BY-SA-4.0.txt">CC BY-SA 4.0</a> (credit Sushant Khatri & note all changes).</sub>
 
