@@ -46,6 +46,46 @@
         animation: floatSoftReverse 5.8s ease-in-out infinite;
       }
 
+      /* Ship sailing right along the water surface */
+      .ship-cruise {
+        animation: sailAcross 28s linear infinite;
+      }
+      .ship-bob {
+        transform-box: fill-box;
+        transform-origin: center bottom;
+        animation: bobShip 2.8s ease-in-out infinite;
+      }
+      .flag-wave {
+        transform-box: fill-box;
+        transform-origin: left center;
+        animation: flutterFlag 1.2s ease-in-out infinite;
+      }
+
+      /* Stars twinkling in the sky */
+      .star-1 { animation: twinkle 3.1s ease-in-out infinite; }
+      .star-2 { animation: twinkle 4.2s ease-in-out 0.9s infinite; }
+      .star-3 { animation: twinkle 3.7s ease-in-out 1.7s infinite; }
+      .star-4 { animation: twinkle 4.6s ease-in-out 2.3s infinite; }
+      .star-5 { animation: twinkle 3.4s ease-in-out 0.4s infinite; }
+
+      /* Subtle rising droplets above the wave surface */
+      .droplet-1 { animation: riseDroplet 4.4s ease-out infinite; }
+      .droplet-2 { animation: riseDroplet 5.2s ease-out 1.4s infinite; }
+      .droplet-3 { animation: riseDroplet 4.8s ease-out 2.6s infinite; }
+      .droplet-4 { animation: riseDroplet 5.6s ease-out 0.8s infinite; }
+
+      /* Subtle expanding surface ripples */
+      .ripple-ring-a {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: rippleExpand 4.2s ease-out infinite;
+      }
+      .ripple-ring-b {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: rippleExpand 4.2s ease-out 2.1s infinite;
+      }
+
       @keyframes driftLeft {
         0% { transform: translate3d(0px, 0px, 0px); }
         100% { transform: translate3d(-1200px, 0px, 0px); }
@@ -53,6 +93,25 @@
       @keyframes driftRight {
         0% { transform: translate3d(-1200px, 0px, 0px); }
         100% { transform: translate3d(0px, 0px, 0px); }
+      }
+      @keyframes sailAcross {
+        0% { transform: translate3d(-90px, 156px, 0px); }
+        25% { transform: translate3d(240px, 152px, 0px); }
+        50% { transform: translate3d(570px, 157px, 0px); }
+        75% { transform: translate3d(900px, 153px, 0px); }
+        100% { transform: translate3d(1250px, 156px, 0px); }
+      }
+      @keyframes bobShip {
+        0%, 100% { transform: translate3d(0px, 0px, 0px) rotate(-2deg); }
+        50% { transform: translate3d(0px, 2px, 0px) rotate(2deg); }
+      }
+      @keyframes flutterFlag {
+        0%, 100% { transform: skewY(-6deg) scaleX(1); }
+        50% { transform: skewY(8deg) scaleX(0.92); }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.85; transform: scale(1); }
+        50% { opacity: 0.2; transform: scale(0.75); }
       }
       @keyframes pulseGlow {
         0%, 100% { opacity: 1; }
@@ -65,6 +124,28 @@
       @keyframes floatSoftReverse {
         0%, 100% { transform: translate3d(0px, 0px, 0px); }
         50% { transform: translate3d(0px, 4px, 0px); }
+      }
+      @keyframes riseDroplet {
+        0% {
+          opacity: 0;
+          transform: translate3d(0px, 0px, 0px) scale(0.7);
+        }
+        25% { opacity: 0.75; }
+        85% { opacity: 0.2; }
+        100% {
+          opacity: 0;
+          transform: translate3d(0px, -34px, 0px) scale(1);
+        }
+      }
+      @keyframes rippleExpand {
+        0% {
+          opacity: 0.55;
+          transform: scale(0.45);
+        }
+        100% {
+          opacity: 0;
+          transform: scale(1.65);
+        }
       }
       @keyframes fadeUp {
         from { opacity: 0; transform: translateY(6px); }
@@ -94,14 +175,19 @@
     </linearGradient>
 
     <linearGradient id="waterGradMid" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FF8C3B" stop-opacity="0.18" />
-      <stop offset="100%" stop-color="#090C10" stop-opacity="0.02" />
+      <stop offset="0%" stop-color="#FF8C3B" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#090C10" stop-opacity="0.04" />
     </linearGradient>
 
     <linearGradient id="crestGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.85" />
       <stop offset="50%" stop-color="#FFD166" stop-opacity="0.95" />
       <stop offset="100%" stop-color="#FF8C3B" stop-opacity="0.85" />
+    </linearGradient>
+
+    <linearGradient id="sailGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.94" />
+      <stop offset="100%" stop-color="#F75F1C" stop-opacity="0.74" />
     </linearGradient>
 
     <linearGradient id="textAccent" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -125,13 +211,52 @@
   <rect width="1200" height="240" fill="url(#ambientGlow)" />
 
   
+  <g fill="#FFD166">
+    <circle cx="240" cy="42" r="1.5" class="star-1" />
+    <circle cx="385" cy="64" r="1.2" fill="#FF8C3B" class="star-2" />
+    <circle cx="810" cy="48" r="1.5" class="star-3" />
+    <circle cx="945" cy="70" r="1.2" fill="#FF8C3B" class="star-4" />
+    <circle cx="600" cy="64" r="1.3" class="star-5" />
+  </g>
+
+  
   <g class="wave-back">
     <path d="M 0 176 C 150 156, 450 196, 600 176 C 750 156, 1050 196, 1200 176 C 1350 156, 1650 196, 1800 176 C 1950 156, 2250 196, 2400 176 L 2400 240 L 0 240 Z" fill="url(#waterGradBack)" />
   </g>
 
   
+  <g class="ship-cruise" opacity="0.96">
+    <g class="ship-bob">
+      
+      <line x1="26" y1="0" x2="26" y2="21" stroke="#FFD166" stroke-width="1.35" stroke-linecap="round" />
+      
+      <g class="flag-wave">
+        <path d="M 26 0 L 38 3.5 L 26 7 Z" fill="#F75F1C" />
+      </g>
+      
+      <path d="M 27 6 Q 40 13 27 20 Z" fill="url(#sailGrad)" />
+      <path d="M 25 9 Q 16 14.5 25 20 Z" fill="#FF8C3B" fill-opacity="0.82" />
+      
+      <path d="M 8 21 L 44 21 L 39 28.5 L 13 28.5 Z" fill="#181E2B" stroke="#FFD166" stroke-width="1.2" stroke-linejoin="round" />
+      
+      <circle cx="41" cy="19.5" r="1.7" fill="#FFD166" class="node-pulse" />
+    </g>
+  </g>
+
+  
   <g class="wave-mid">
-    <path d="M 0 188 C 200 206, 400 170, 600 188 C 800 206, 1000 170, 1200 188 C 1400 206, 1600 170, 1800 188 C 2000 206, 2200 170, 2400 188 L 2400 240 L 0 240 Z" fill="url(#waterGradMid)" />
+    <path d="M 0 184 C 200 202, 400 166, 600 184 C 800 202, 1000 166, 1200 184 C 1400 202, 1600 166, 1800 184 C 2000 202, 2200 166, 2400 184 L 2400 240 L 0 240 Z" fill="url(#waterGradMid)" />
+  </g>
+
+  
+  <g opacity="0.7">
+    <ellipse cx="320" cy="196" rx="22" ry="4.5" stroke="#FF8C3B" stroke-width="1" fill="none" class="ripple-ring-a" />
+    <ellipse cx="880" cy="198" rx="26" ry="5" stroke="#FFD166" stroke-width="1" fill="none" class="ripple-ring-b" />
+
+    <circle cx="290" cy="176" r="2.2" fill="#FFD166" class="droplet-1" />
+    <circle cx="520" cy="180" r="1.8" fill="#FF8C3B" class="droplet-2" />
+    <circle cx="710" cy="178" r="2.4" fill="#FFD166" class="droplet-3" />
+    <circle cx="940" cy="181" r="2" fill="#FF8C3B" class="droplet-4" />
   </g>
 
   
