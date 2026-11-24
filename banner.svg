@@ -227,18 +227,13 @@
   
   <g class="ship-cruise" opacity="0.96">
     <g class="ship-bob">
-      
       <line x1="26" y1="0" x2="26" y2="21" stroke="#FFD166" stroke-width="1.35" stroke-linecap="round" />
-      
       <g class="flag-wave">
         <path d="M 26 0 L 38 3.5 L 26 7 Z" fill="#F75F1C" />
       </g>
-      
       <path d="M 27 6 Q 40 13 27 20 Z" fill="url(#sailGrad)" />
       <path d="M 25 9 Q 16 14.5 25 20 Z" fill="#FF8C3B" fill-opacity="0.82" />
-      
       <path d="M 8 21 L 44 21 L 39 28.5 L 13 28.5 Z" fill="#181E2B" stroke="#FFD166" stroke-width="1.2" stroke-linejoin="round" />
-      
       <circle cx="41" cy="19.5" r="1.7" fill="#FFD166" class="node-pulse" />
     </g>
   </g>
