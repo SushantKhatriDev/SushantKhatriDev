@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://sushantkhatri.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F75F1C" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=F75F1C" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
