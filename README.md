@@ -6,12 +6,9 @@
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="480" />
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C¢er=true&vCenter=true&width=760&lines=Games%2C+AI+Agents+%26+Models+Builder+%F0%9F%9A%80;Systems%2C+Web+%26+Interactive+Worlds+%F0%9F%A7%A0;Software%2C+Web+%26+Creator+Studio+%F0%9F%8E%A5"
-    alt="Typing SVG"
-  />
-</a>
+<p align="center">
+  <img src="typing.svg" alt="Games, AI Agents & Models Builder | Systems, Web & Interactive Worlds | Software, Web & Creator Studio" width="760" />
+</p>
 
 <br />
 
