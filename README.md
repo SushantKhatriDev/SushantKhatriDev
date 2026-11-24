@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="banner.svg" alt="Sushant Khatri — Runexel · Builder & Creator" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090C10,50:141923,100:F75F1C&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%26%20Creator&descSize=17&descAlignY=60" alt="Sushant Khatri — Runexel · Builder & Creator" />
 
 <p align="center">
-  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="550" />
+  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="480" />
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -15,16 +15,14 @@
 
 <br />
 
-**Independent builder and creator crafting games, AI agents, models, software, and web experiences by day—and sharing builds, reactions, and ideas with the community by night! 🛠️ 🧠**
+**Independent builder and creator crafting games, AI agents, custom models, and web worlds by day—and sharing builds, devlogs, and reactions by night.**
 
 <br />
 
-> *"Those who can imagine anything, can create the impossible."* — **Alan Turing**
-
-<br />
-
-<!-- 🚀 Social Badges right under intro for quick access -->
 <p align="center">
+  <a href="https://sushantkhatri.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F75F1C" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -41,241 +39,162 @@
 
 <br />
 
-<!-- 🚀 Jump navigation right after header elements -->
-<a href="#-about-me"><b>About</b></a>
-  ·    <a href="#-toolbox"><b>Toolbox</b></a>
-  ·    <a href="#-github-organizations"><b>Organizations</b></a>
-  ·    <a href="#-youtube-channels"><b>YouTube</b></a>
-  ·    <a href="#-github-activity"><b>Activity</b></a>
+<a href="#about-me"><b>About</b></a>
+  ·  <a href="#toolbox"><b>Toolbox</b></a>
+  ·  <a href="#ecosystems--builds"><b>Ecosystems</b></a>
+  ·  <a href="#projects--workspaces"><b>Projects</b></a>
+  ·  <a href="#youtube-channels"><b>YouTube</b></a>
+  ·  <a href="#highlights"><b>Highlights</b></a>
 
 </div>
 
-<br />
-
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🛠️ Independent **builder & creator**—I don't just play games or use tools, **I architect games, AI agents, custom models, software, and web platforms** on my own terms
-- 🔭 Currently shipping **autonomous AI agents, playable game systems, full-stack web apps, and my creator ecosystem**
-- ⚡ **Builder Facts:** Multi-org founder (**Runexel**, **Sutomiuxe**, **NexusFrag**) · Low-level systems (`C`, `C++`, `Rust`) to high-level AI & Web (`Python`, `JS`) · Shipping in public across GitHub & GitLab
-- 🧠 Core focus: **AI agent orchestration, custom model pipelines, game engines & mechanics, and modern web architecture**
-- 🎥 I love sharing live builds, reactions, thoughts, and interactive worlds with everyone!
-- 👨‍💻 Main Portfolio: [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/)
-- 🛠️ Builder Workspace: [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/)
-- 🏢 GitLab Group: [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev)
-- 💬 Ask me about **Game development, AI agents & models, web builds, and content creation**
-- 📫 How to reach me **Through LinkedIn, my YouTube channels, GitLab, or blogs**
+- **Architect & Creator:** Building autonomous AI agents, custom model pipelines, game engines, and full-stack web platforms on my own terms.
+- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI and web (`Python`, `JavaScript`) across GitHub and GitLab.
+- **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
+- **Ask Me About:** Game dev, AI agent orchestration, custom models, and creator setups.
 
 <details>
-<summary><b>▸ More about my background & vision</b></summary>
+<summary><b>More about my philosophy & vision</b></summary>
 
 <br />
 
-> *"First, solve the problem. Then, write the code."* — **John Johnson**
+> *"Those who can imagine anything, can create the impossible."* — **Alan Turing**
 
-I build what I envision—managing my own path as a creator rather than fitting into a traditional box. Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous AI agents, custom models, and web experiences while bringing the community along for the ride.
+Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous agents, and web experiences while building in public with the community.
 
 </details>
 
-<br />
-
 ---
 
-## ◇ Toolbox
+## Toolbox
 
 <div align="center">
 
-<p align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>  
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/> </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>  
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+    
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+    
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
+    
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+    
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+    
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+    
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+    
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+    
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-<br />
-
-`C` · `C++` · `Python` · `JavaScript` · `Rust` · `Linux` · `HTML/CSS` · `Git`
+`C` · `C++` · `Rust` · `Python` · `JavaScript` · `Linux` · `HTML/CSS` · `Git`
 
 </div>
 
-<br />
-
 ---
 
-## 🏢 GitHub Organizations
+## Ecosystems & Builds
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 💻 Runexel
-Builder Hub: AI agents, models, software, and web projects.
+### Runexel
+**AI & Software Hub**
 
-[Explore Hub 🛠️](https://github.com/Runexel)
+Autonomous AI agents, custom model pipelines, and developer tools.
 
-</td>
+`Python` · `AI` · `Systems`
 
-<td width="33%" align="center" valign="top">
-
-### 💎 Sutomiuxe
-Game Creation Hub: Custom games, engines, and open-source assets.
-
-[Explore Hub ✨](https://github.com/Sutomiuxe)
+[Explore Hub →](https://github.com/Runexel)
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
-### ⚔️ NexusFrag
-Team Hub: Collaborative builds and community releases.
+### Sutomiuxe
+**Game Creation Hub**
 
-[Explore Hub 🚀](https://github.com/NexusFrag)
+Playable interactive worlds, custom mechanics, and open-source assets.
+
+`C++` · `Rust` · `GameDev`
+
+[Explore Hub →](https://github.com/Sutomiuxe)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### NexusFrag
+**Collaborative Team Hub**
+
+Full-stack web platforms, team builds, and community releases.
+
+`JavaScript` · `Web` · `OSS`
+
+[Explore Hub →](https://github.com/NexusFrag)
 
 </td>
 </tr>
 </table>
 
-<br />
+---
+
+## Projects & Workspaces
+
+| Project / Hub | Focus | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `AI` · `Systems` | [github.com/Runexel](https://github.com/Runexel) |
+| **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `GameDev` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
+| **NexusFrag** | Collaborative team builds and open-source web releases | `JavaScript` · `Web` · `OSS` | [github.com/NexusFrag](https://github.com/NexusFrag) |
+| **Main Portfolio** | Personal showcase, active builds, and creator overview | `HTML/CSS` · `JavaScript` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
+| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `Web` · `Full-Stack` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
+| **GitLab Mirror & Repos** | Multi-platform repositories and private/public engineering work | `C` · `C++` · `Git` | [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev) |
+| **Dev Blog** | Technical notes, build logs, and developer thoughts | `Writing` · `DevLogs` | [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/) |
 
 ---
 
-## 🎥 YouTube Channels
+## YouTube Channels
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### ⚔️ Sutolix
-Creator & Reactions: Live reactions, sharing thoughts, showcases, and community vibes.
+### Sutolix
+Live reactions, showcases, thoughts, and community vibes.
 
-[Subscribe 🚀](https://youtube.com/@sutolix?si=t5r3jrqmZqvhek4U)
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 💻 Runexel
-Builder Channel: AI agents, software builds, devlogs, and code breakdowns.
-
-[Subscribe 🛠️](https://youtube.com/@runexel?si=ybnuEoviSb0ssg_1)
+[Watch Channel →](https://youtube.com/@sutolix)
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
-### 💎 Sutomiuxe
-Game Dev & Worlds: Building games, interactive demos, and creative entertainment.
+### Runexel
+AI agents, software builds, devlogs, and code breakdowns.
 
-[Subscribe ✨](https://youtube.com/@sutomiuxe?si=UKfD-_K3X9jocRt-)
+[Watch Channel →](https://youtube.com/@runexel)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Sutomiuxe
+Game development, playable demos, and creative worlds.
+
+[Watch Channel →](https://youtube.com/@sutomiuxe)
 
 </td>
 </tr>
 </table>
 
-<br />
-
 ---
 
-## ◇ GitHub Activity
+## Highlights
 
 <div align="center">
-
-### Building in public.
-
-<sub>Games, AI agents, models, web apps, and constant iteration.</sub>
-
-<br />
-<br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github"
-  />
-  <img
-    width="96%"
-    alt="Sushant's GitHub Activity"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushantKhatriDev&theme=github"
-  />
-</picture>
-
-<br />
-<br />
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github"
-  />
-  <img
-    width="100%"
-    alt="GitHub Stats"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantKhatriDev&theme=github"
-  />
-</picture>
-
-</td>
-
-<td width="50%" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github_dark&utcOffset=5.75"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=5.75"
-  />
-  <img
-    width="100%"
-    alt="Productive Time"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SushantKhatriDev&theme=github&utcOffset=5.75"
-  />
-</picture>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<img
-width="96%"
-src="https://github-readme-streak-stats.herokuapp.com?user=SushantKhatriDev&theme=transparent&hide_border=true&stroke=F75F1C&fire=F75F1C&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
-alt="GitHub Streak"
-/>
-
-<br />
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-<!-- 🏆 Earned GitHub Achievements -->
-<h3>🏆 GitHub Achievements</h3>
 
 <p align="center">
   <a href="https://github.com/SushantKhatriDev?achievement=yolo&tab=achievements" target="_blank">
@@ -296,29 +215,18 @@ alt="GitHub Streak"
 
 <br />
 
-<!-- ✨ Bottom typing SVG linked to LinkedIn -->
-<a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=F75F1C&center=true&vCenter=true&width=680&lines=Build+games%2C+AI+%26+software+by+day.;Create+%26+share+with+the+world+by+night.;My+vision.+My+rules."
-    alt="Build games, AI & software by day. Create & share with the world by night."
-  />
+<a href="https://github.com/SushantKhatriDev?tab=repositories">
+  <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star" />
 </a>
 
-<br />
-
-**Builder · Game & AI Maker · Web & Digital Creator**
-
-<br />
+<br /><br />
 
 <a href="https://sushantkhatri.pages.dev/" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=Profile%2520Views&color=F75F1C&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=PROFILE+VIEWS&color=F75F1C&style=for-the-badge" alt="Profile Views" />
 </a>
 
-<br />
-<br />
+<br /><br />
 
-<sub>
-If something here inspires you, explore a project, connect on LinkedIn, or check out my channels!
-</sub>
+<sub><b>My vision. My rules.</b> · Built in public across games, AI, and web.</sub>
 
 </div>
