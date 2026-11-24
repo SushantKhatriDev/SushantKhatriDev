@@ -41,6 +41,7 @@
   ·  <a href="#ecosystems--builds"><b>Ecosystems</b></a>
   ·  <a href="#projects--workspaces"><b>Projects</b></a>
   ·  <a href="#youtube-channels"><b>YouTube</b></a>
+  ·  <a href="#licensing--ownership"><b>Licensing</b></a>
   ·  <a href="#highlights"><b>Highlights</b></a>
 
 </div>
@@ -190,6 +191,16 @@ Game development, playable demos, and creative worlds.
 </td>
 </tr>
 </table>
+
+---
+
+## Licensing & Ownership
+
+| Scope | License / Terms | File | Key Rules |
+| :--- | :--- | :--- | :--- |
+| **Source Code & Scripts** | **GPL-3.0** | [LICENSE](LICENSE) | Open-source copyleft; disclose source, note changes, keep GPL-3.0 |
+| **Shared Creative & Visual Assets** | **CC BY-SA 4.0** | [LICENSE-CC-BY-SA-4.0.txt](LICENSE-CC-BY-SA-4.0.txt) | Credit **Sushant Khatri**, note modifications, share under CC BY-SA 4.0 |
+| **Personal Quotes & Reserved Works** | **All Rights Reserved** | [ALL-RIGHTS-RESERVED.txt](ALL-RIGHTS-RESERVED.txt) | Held solely by **Sushant Khatri**; no reuse or remix without written permission |
 
 ---
 
