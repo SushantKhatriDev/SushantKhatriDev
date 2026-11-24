@@ -1,0 +1,55 @@
+================================================================================
+SOLE INDIVIDUAL COPYRIGHT & CREATOR ATTRIBUTION NOTICE
+================================================================================
+
+Copyright (c) 2026 Sushant Khatri (also known online as SushantKhatriDev and
+Runexel). All Rights Reserved.
+
+1. SOLE INDIVIDUAL OWNERSHIP
+   - All rights, title, and copyright interest in and to the original creative,
+     visual, graphic, and written works listed below are held solely and
+     individually by Sushant Khatri as an individual creator.
+   - Reference to online handles or projects (including "SushantKhatriDev",
+     "Runexel", "Sutomiuxe", "NexusFrag", or "Sutolix") identifies the
+     creator's persona or workspaces and does NOT transfer ownership to any
+     organization, group, company, or third party.
+
+2. COVERED CREATIVE & WRITTEN WORKS
+   - This notice covers original creative and written works created by Sushant
+     Khatri, including:
+     * Custom SVG artwork and animations (such as banner.svg, avatar_ascii.svg,
+       and typing.svg)
+     * ASCII art, visual layouts, badges, and profile/brand graphics
+     * Original quotes, personal philosophy statements, written notes, and
+       profile copy
+
+3. RESTRICTIONS ON USE, COPYING & MODIFICATION
+   - Except where an explicit, separate open license is stated for a specific
+     file (such as GNU General Public License v3.0 for designated source code),
+     no permission or license is granted to copy, reproduce, scrape, re-upload,
+     distribute, publish, sell, or create derivative works from the covered
+     creative or written works without prior written permission from Sushant
+     Khatri.
+   - Users may not remove, alter, obscure, or falsify copyright notices,
+     author attribution, or source links on any authorized copy.
+   - Misrepresenting Sushant Khatri's works or quotes as one's own original
+     creation, or implying Sushant Khatri's endorsement of another person,
+     product, or channel, is strictly prohibited.
+
+4. SEPARATION FROM CODE LICENSE & PLATFORM TERMS
+   - Source code files explicitly governed by the GNU General Public License
+     v3.0 (GPL-3.0) remain subject to that license's terms for code; however,
+     GPL-3.0 applies to software/source code and does not grant rights over
+     non-code creative artwork, branding, or personal quotes unless
+     explicitly stated otherwise.
+   - Hosting on a public platform or repository does not waive copyright or
+     constitute a transfer of ownership or a broad license to reuse creative
+     assets outside permitted platform viewing.
+
+5. RESERVATION OF RIGHTS & REMEDIES
+   - Sushant Khatri reserves all rights under applicable copyright and
+     intellectual property laws worldwide, including the right to pursue
+     takedown notices and legal remedies against unauthorized use or
+     misattribution.
+
+================================================================================
