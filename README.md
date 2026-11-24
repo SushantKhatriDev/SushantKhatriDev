@@ -216,7 +216,7 @@ Game development, playable demos, and creative worlds.
     <img src="https://img.shields.io/badge/Code-GPL--3.0-F75F1C?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL-3.0 Code License" />
   </a>
   <a href="LICENSE-CC-BY-SA-4.0.txt" target="_blank">
-    <img src="https://img.shields.io/badge/Art%20%26%20Media-CC%20BY--SA%204.0-FF8C3B?style=for-the-badge&logo=creativecommons&logoColor=white" alt="CC BY-SA 4.0 Creative License" />
+    <img src="https://img.shields.io/badge/Art%2C%20SVGs%20%26%20Quotes-CC%20BY--SA%204.0-FF8C3B?style=for-the-badge&logo=creativecommons&logoColor=white" alt="CC BY-SA 4.0 Creative License" />
   </a>
 </p>
 
@@ -236,6 +236,6 @@ Game development, playable demos, and creative worlds.
 
 <sub><b>My vision. My rules.</b> · Loyalty over backstabbing · Built in public across games, AI, and web.</sub>
 <br />
-<sub>Solely created & owned by <b>Sushant Khatri</b> (<b>SushantKhatriDev</b> / <b>Runexel</b>) · Code: <a href="LICENSE">GPL-3.0</a> · Art, SVGs & Media: <a href="LICENSE-CC-BY-SA-4.0.txt">CC BY-SA 4.0</a> (credit Sushant Khatri & note all changes).</sub>
+<sub>Solely created & owned by <b>Sushant Khatri</b> (<b>SushantKhatriDev</b> / <b>Runexel</b>) · Code: <a href="LICENSE">GPL-3.0</a> · Art, SVGs, Media & Quotes: <a href="LICENSE-CC-BY-SA-4.0.txt">CC BY-SA 4.0</a> (credit Sushant Khatri & note all changes).</sub>
 
 </div>
