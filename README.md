@@ -289,7 +289,7 @@ alt="GitHub Streak"
   </a>
   <!-- STAR_BADGE_START -->
   <a href="https://github.com/SushantKhatriDev?achievement=starstruck&tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Starstruck_21_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />
+    <img src="https://img.shields.io/badge/Starstruck_25_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />
   </a>
   <!-- STAR_BADGE_END -->
 </p>
