@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090C10,50:141923,100:F75F1C&text=Sushant%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Runexel%20%C2%B7%20Builder%20%26%20Creator&descSize=17&descAlignY=60" alt="Sushant Khatri — Runexel · Builder & Creator" />
+<img width="100%" src="banner.svg" alt="Sushant Khatri — Runexel · Builder & Creator" />
 
 <p align="center">
   <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="480" />
@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C&center=true&vCenter=true&width=760&lines=Games%2C+AI+Agents+%26+Models+Builder+%F0%9F%9A%80;Systems%2C+Web+%26+Interactive+Worlds+%F0%9F%A7%A0;Software%2C+Web+%26+Creator+Studio+%F0%9F%8E%A5"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F75F1C¢er=true&vCenter=true&width=760&lines=Games%2C+AI+Agents+%26+Models+Builder+%F0%9F%9A%80;Systems%2C+Web+%26+Interactive+Worlds+%F0%9F%A7%A0;Software%2C+Web+%26+Creator+Studio+%F0%9F%8E%A5"
     alt="Typing SVG"
   />
 </a>
