@@ -52,7 +52,7 @@
 
 - **Architect & Creator:** Building autonomous AI agents, custom model pipelines, game engines, and full-stack web platforms on my own terms.
 - **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI and web (`Python`, `JavaScript`) across GitHub and GitLab.
-- **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
+- **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [Interstellar Nav Deck](https://SushantKhatriDev.github.io) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
 - **Ask Me About:** Game dev, AI agent orchestration, custom models, and creator setups.
 
 <details>
@@ -151,6 +151,7 @@ Full-stack web platforms, team builds, and community releases.
 
 | Project / Hub | Focus | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `HTML/CSS` · `JavaScript` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
 | **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `AI` · `Systems` | [github.com/Runexel](https://github.com/Runexel) |
 | **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `GameDev` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
 | **NexusFrag** | Collaborative team builds and open-source web releases | `JavaScript` · `Web` · `OSS` | [github.com/NexusFrag](https://github.com/NexusFrag) |
