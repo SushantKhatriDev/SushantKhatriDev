@@ -430,4 +430,4 @@ Creative Commons may be contacted at creativecommons.org.
 =======================================================================
 
 Copyright (c) 2026 Sushant Khatri (known as SushantKhatriDev / Runexel). Solely held by Sushant Khatri individually.
-This license applies to creative and visual assets (banner.svg, avatar_ascii.svg, typing.svg, and profile media) created by Sushant Khatri.
+This license applies to creative, visual, and written works (banner.svg, avatar_ascii.svg, typing.svg, original quotes, and profile media) created by Sushant Khatri.
