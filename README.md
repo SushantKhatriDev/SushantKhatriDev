@@ -78,21 +78,21 @@ Combining low-level systems engineering with modern AI and game design, I turn r
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-    
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
@@ -155,6 +155,7 @@ Full-stack web platforms, team builds, and community releases.
 | **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `AI` · `Systems` | [github.com/Runexel](https://github.com/Runexel) |
 | **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `GameDev` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
 | **NexusFrag** | Collaborative team builds and open-source web releases | `JavaScript` · `Web` · `OSS` | [github.com/NexusFrag](https://github.com/NexusFrag) |
+| **horizon (Fork)** | Structure placement entity rotation & hanging entity parity fixes (`#20963`, `#20985`) | `Rust` · `OSS` | [Commits by SushantKhatriDev](https://github.com/SushantKhatriDev/horizon/commits?author=SushantKhatriDev) |
 | **Main Portfolio** | Personal showcase, active builds, and creator overview | `HTML/CSS` · `JavaScript` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
 | **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `Web` · `Full-Stack` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
 | **GitLab Mirror & Repos** | Multi-platform repositories and private/public engineering work | `C` · `C++` · `Git` | [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev) |
