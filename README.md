@@ -39,7 +39,8 @@
 <a href="#about-me"><b>About</b></a>
   ·  <a href="#toolbox"><b>Toolbox</b></a>
   ·  <a href="#ecosystems--builds"><b>Ecosystems</b></a>
-  ·  <a href="#projects--workspaces"><b>Projects</b></a>
+  ·  <a href="#featured-repositories"><b>Featured Repos</b></a>
+  ·  <a href="#projects--workspaces"><b>Workspaces</b></a>
   ·  <a href="#youtube-channels"><b>YouTube</b></a>
   ·  <a href="#licensing--ownership"><b>Licensing</b></a>
   ·  <a href="#highlights"><b>Highlights</b></a>
@@ -51,7 +52,7 @@
 ## About Me
 
 - **Architect & Creator:** Building autonomous AI agents, custom model pipelines, game engines, and full-stack web platforms on my own terms.
-- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI and web (`Python`, `JavaScript`) across GitHub and GitLab.
+- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI and full-stack web (`Python`, `TypeScript`, `JavaScript`) across GitHub and GitLab.
 - **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [Interstellar Nav Deck](https://SushantKhatriDev.github.io) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
 - **Ask Me About:** Game dev, AI agent orchestration, custom models, and creator setups.
 
@@ -83,6 +84,8 @@ Combining low-level systems engineering with modern AI and game design, I turn r
   &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
@@ -94,7 +97,7 @@ Combining low-level systems engineering with modern AI and game design, I turn r
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-`C` · `C++` · `Rust` · `Python` · `JavaScript` · `Linux` · `HTML/CSS` · `Git`
+`C` · `C++` · `Rust` · `Python` · `TypeScript` · `JavaScript` · `Linux` · `HTML and CSS` · `Git`
 
 </div>
 
@@ -111,7 +114,7 @@ Combining low-level systems engineering with modern AI and game design, I turn r
 
 Autonomous AI agents, custom model pipelines, and developer tools.
 
-`Python` · `AI` · `Systems`
+`Python` · `TypeScript` · `AI`
 
 [Explore Hub →](https://github.com/Runexel)
 
@@ -135,9 +138,52 @@ Playable interactive worlds, custom mechanics, and open-source assets.
 
 Full-stack web platforms, team builds, and community releases.
 
-`JavaScript` · `Web` · `OSS`
+`TypeScript` · `JavaScript` · `Web`
 
 [Explore Hub →](https://github.com/NexusFrag)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Interstellar Nav Deck](https://github.com/SushantKhatriDev/SushantKhatriDev.github.io)
+Interactive web navigation deck, welcome audio gate, and live workspace launcher.
+
+`TypeScript` · `JavaScript` · `HTML and CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### [horizon (Open-Source Fork)](https://github.com/SushantKhatriDev/horizon)
+Systems and game server parity contributions for structure placement rotation and hanging entities (`#20963`, `#20985`).
+
+`Rust` · `Systems` · `OSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Runexel Agent Pipelines](https://github.com/Runexel)
+Modular AI agent orchestration, local LLM tooling, and custom model workflows.
+
+`Python` · `TypeScript` · `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### [Sutomiuxe Engine & Worlds](https://github.com/Sutomiuxe)
+Low-level game mechanics, playable prototypes, and custom interactive environments.
+
+`C++` · `Rust` · `GameDev`
 
 </td>
 </tr>
@@ -149,13 +195,13 @@ Full-stack web platforms, team builds, and community releases.
 
 | Project / Hub | Focus | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `HTML/CSS` · `JavaScript` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
-| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `AI` · `Systems` | [github.com/Runexel](https://github.com/Runexel) |
+| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `TypeScript` · `JavaScript` · `HTML and CSS` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
+| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `TypeScript` · `AI` | [github.com/Runexel](https://github.com/Runexel) |
 | **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `GameDev` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
-| **NexusFrag** | Collaborative team builds and open-source web releases | `JavaScript` · `Web` · `OSS` | [github.com/NexusFrag](https://github.com/NexusFrag) |
+| **NexusFrag** | Collaborative team builds and open-source web releases | `TypeScript` · `JavaScript` · `Web` | [github.com/NexusFrag](https://github.com/NexusFrag) |
 | **horizon (Fork)** | Structure placement entity rotation & hanging entity parity fixes (`#20963`, `#20985`) | `Rust` · `OSS` | [Commits by SushantKhatriDev](https://github.com/SushantKhatriDev/horizon/commits?author=SushantKhatriDev) |
-| **Main Portfolio** | Personal showcase, active builds, and creator overview | `HTML/CSS` · `JavaScript` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
-| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `Web` · `Full-Stack` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
+| **Main Portfolio** | Personal showcase, active builds, and creator overview | `TypeScript` · `JavaScript` · `HTML and CSS` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
+| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `TypeScript` · `Web` · `Full-Stack` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
 | **GitLab Mirror & Repos** | Multi-platform repositories and private/public engineering work | `C` · `C++` · `Git` | [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev) |
 | **Dev Blog** | Technical notes, build logs, and developer thoughts | `Writing` · `DevLogs` | [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/) |
 
