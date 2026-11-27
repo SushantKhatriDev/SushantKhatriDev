@@ -64,8 +64,6 @@
 
 > *"Never let anyone control you or dictate what you want—walk away and move on knowing your worth, never hurt those who stood by you at your lowest, and never backstab anyone, for I would rather die in loyalty than betray; this war was never about gain, it was born of your tyranny, treachery, and rule violations."* — **Sushant Khatri**
 
-> *"Own your path and walk away from control knowing your worth; never hurt those who stood by you at your lowest, and never backstab anyone—I would rather die in loyalty than betray, for the first war was never about gain, it was against your tyranny, treachery, and broken rules."* — **Sushant Khatri**
-
 Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous agents, and web experiences while building in public with the community.
 
 </details>
