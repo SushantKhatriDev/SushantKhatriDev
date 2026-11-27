@@ -1,29 +1,29 @@
-<svg viewBox="0 0 1200 340" width="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .hero-name {
-        font-size: 60px;
+        font-size: 46px;
         font-weight: 800;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
         fill: #FFFFFF;
       }
       .hero-sub {
-        font-size: 17px;
+        font-size: 14px;
         font-weight: 700;
         font-family: "Fira Code", Consolas, Monaco, monospace;
-        letter-spacing: 2.6px;
+        letter-spacing: 2.2px;
         fill: #FF8C3B;
       }
       .hero-refl {
-        font-size: 36px;
+        font-size: 28px;
         font-weight: 800;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        letter-spacing: 4px;
+        letter-spacing: 3px;
         fill: #FF8C3B;
         opacity: 0.16;
       }
       .dream-line {
-        font-size: 17.5px;
+        font-size: 14.5px;
         font-weight: 600;
         font-family: "Fira Code", Consolas, Monaco, monospace;
         fill: #FFE8C2;
@@ -52,15 +52,15 @@
       }
       @keyframes floatCloud {
         0%, 100% { transform: translate3d(0px, 0px, 0px); }
-        50% { transform: translate3d(0px, -5px, 0px); }
+        50% { transform: translate3d(0px, -4px, 0px); }
       }
       @keyframes driftEmberA {
         0%, 100% { transform: translate3d(0px, 0px, 0px); opacity: 0.35; }
-        50% { transform: translate3d(16px, -11px, 0px); opacity: 0.95; }
+        50% { transform: translate3d(14px, -9px, 0px); opacity: 0.95; }
       }
       @keyframes driftEmberB {
         0%, 100% { transform: translate3d(0px, 0px, 0px); opacity: 0.25; }
-        50% { transform: translate3d(-14px, -9px, 0px); opacity: 0.85; }
+        50% { transform: translate3d(-12px, -7px, 0px); opacity: 0.85; }
       }
       @keyframes dreamCycle16 {
         0% { opacity: 0; transform: translateY(4px); }
@@ -84,13 +84,13 @@
     </radialGradient>
 
     <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.24" />
+      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.22" />
       <stop offset="100%" stop-color="#FFD166" stop-opacity="0" />
     </radialGradient>
 
     <linearGradient id="ridgeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0C1322" stop-opacity="0.72" />
-      <stop offset="100%" stop-color="#070A12" stop-opacity="0.96" />
+      <stop offset="0%" stop-color="#0C1322" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#070A12" stop-opacity="0.95" />
     </linearGradient>
 
     <linearGradient id="riverWater" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -111,134 +111,134 @@
     </linearGradient>
 
     <filter id="softGlow" x="-25%" y="-25%" width="150%" height="150%">
-      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#F75F1C" flood-opacity="0.48" />
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#F75F1C" flood-opacity="0.45" />
     </filter>
   </defs>
 
   
-  <rect width="1200" height="340" fill="url(#nightSky)" />
-  <circle cx="1115" cy="58" r="54" fill="url(#moonGlow)" />
-  <path d="M 1124 41 A 18 18 0 1 0 1126 74 A 14 14 0 1 1 1124 41 Z" fill="#FFD166" opacity="0.88" />
+  <rect width="1200" height="240" fill="url(#nightSky)" />
+  <circle cx="1115" cy="46" r="42" fill="url(#moonGlow)" />
+  <path d="M 1122 33 A 14 14 0 1 0 1124 58 A 11 11 0 1 1 1122 33 Z" fill="#FFD166" opacity="0.85" />
 
   
-  <path d="M 0 222 L 140 188 L 290 210 L 470 176 L 660 206 L 880 180 L 1060 202 L 1200 186 L 1200 236 L 0 236 Z" fill="url(#ridgeGrad)" />
+  <path d="M 0 156 L 140 132 L 290 148 L 470 124 L 660 145 L 880 126 L 1060 142 L 1200 130 L 1200 166 L 0 166 Z" fill="url(#ridgeGrad)" />
 
   
   <g>
-    <circle cx="85" cy="46" r="1.8" fill="#FFFFFF">
+    <circle cx="85" cy="34" r="1.4" fill="#FFFFFF">
       <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.8s" repeatCount="indefinite" />
     </circle>
-    <circle cx="162" cy="80" r="1.5" fill="#FFD166">
+    <circle cx="162" cy="58" r="1.1" fill="#FFD166">
       <animate attributeName="opacity" values="0.85;0.2;0.85" dur="3.7s" begin="1.1s" repeatCount="indefinite" />
     </circle>
-    <circle cx="245" cy="38" r="2.0" fill="#FF8C3B">
+    <circle cx="245" cy="28" r="1.6" fill="#FF8C3B">
       <animate attributeName="opacity" values="0.95;0.25;0.95" dur="4.3s" begin="2.2s" repeatCount="indefinite" />
     </circle>
-    <circle cx="318" cy="100" r="1.5" fill="#FFFFFF">
+    <circle cx="318" cy="72" r="1.1" fill="#FFFFFF">
       <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.1s" repeatCount="indefinite" />
     </circle>
-    <circle cx="420" cy="148" r="1.7" fill="#FFD166">
+    <circle cx="420" cy="104" r="1.3" fill="#FFD166">
       <animate attributeName="opacity" values="0.9;0.25;0.9" dur="3.9s" begin="0.8s" repeatCount="indefinite" />
     </circle>
-    <circle cx="515" cy="34" r="1.6" fill="#FFFFFF">
+    <circle cx="515" cy="24" r="1.2" fill="#FFFFFF">
       <animate attributeName="opacity" values="0.85;0.2;0.85" dur="4.2s" begin="1.7s" repeatCount="indefinite" />
     </circle>
-    <circle cx="685" cy="38" r="1.8" fill="#FFD166">
+    <circle cx="685" cy="26" r="1.4" fill="#FFD166">
       <animate attributeName="opacity" values="0.9;0.25;0.9" dur="2.9s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-    <circle cx="790" cy="56" r="1.6" fill="#FFFFFF">
+    <circle cx="790" cy="40" r="1.2" fill="#FFFFFF">
       <animate attributeName="opacity" values="0.85;0.2;0.85" dur="3.6s" begin="1.4s" repeatCount="indefinite" />
     </circle>
-    <circle cx="885" cy="40" r="2.0" fill="#FF8C3B">
+    <circle cx="885" cy="28" r="1.6" fill="#FF8C3B">
       <animate attributeName="opacity" values="0.95;0.25;0.95" dur="4.1s" begin="2.0s" repeatCount="indefinite" />
     </circle>
-    <circle cx="965" cy="86" r="1.6" fill="#FFFFFF">
+    <circle cx="965" cy="62" r="1.2" fill="#FFFFFF">
       <animate attributeName="opacity" values="0.85;0.2;0.85" dur="3.2s" begin="0.9s" repeatCount="indefinite" />
     </circle>
-    <circle cx="1045" cy="48" r="1.9" fill="#FFD166">
+    <circle cx="1045" cy="34" r="1.5" fill="#FFD166">
       <animate attributeName="opacity" values="0.9;0.25;0.9" dur="3.8s" begin="1.9s" repeatCount="indefinite" />
     </circle>
   </g>
 
   
   <g class="firefly-drift-a">
-    <circle cx="295" cy="192" r="2.4" fill="#FFD166" />
-    <circle cx="725" cy="182" r="2.2" fill="#FF8C3B" />
+    <circle cx="295" cy="136" r="2" fill="#FFD166" />
+    <circle cx="725" cy="128" r="1.8" fill="#FF8C3B" />
   </g>
   <g class="firefly-drift-b">
-    <circle cx="545" cy="196" r="2.2" fill="#FFD166" />
-    <circle cx="1035" cy="174" r="2.5" fill="#FF8C3B" />
+    <circle cx="545" cy="138" r="1.8" fill="#FFD166" />
+    <circle cx="1035" cy="122" r="2.1" fill="#FF8C3B" />
   </g>
 
   
   <g class="dream-cloud">
-    <circle cx="206" cy="202" r="3.2" fill="#FF8C3B">
+    <circle cx="206" cy="142" r="2.5" fill="#FF8C3B">
       <animate attributeName="opacity" values="0;0.85;0" dur="3.6s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="202;188;176" dur="3.6s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="142;132;124" dur="3.6s" repeatCount="indefinite" />
     </circle>
-    <circle cx="224" cy="180" r="4.8" fill="#FFD166">
+    <circle cx="222" cy="126" r="3.8" fill="#FFD166">
       <animate attributeName="opacity" values="0;0.85;0" dur="4.2s" begin="1.3s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="180;164;150" dur="4.2s" begin="1.3s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="126;114;104" dur="4.2s" begin="1.3s" repeatCount="indefinite" />
     </circle>
-    <circle cx="248" cy="156" r="6.5" fill="#FF8C3B">
+    <circle cx="242" cy="108" r="5" fill="#FF8C3B">
       <animate attributeName="opacity" values="0;0.85;0" dur="3.9s" begin="2.5s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="156;138;122" dur="3.9s" begin="2.5s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="108;95;84" dur="3.9s" begin="2.5s" repeatCount="indefinite" />
     </circle>
 
-    <ellipse cx="465" cy="76" rx="285" ry="48" fill="url(#dreamAura)" />
-    <rect x="200" y="48" width="530" height="54" rx="27" fill="#0D1422" fill-opacity="0.92" stroke="#F75F1C" stroke-width="1.5" stroke-opacity="0.75" filter="url(#softGlow)" />
+    <ellipse cx="445" cy="56" rx="245" ry="38" fill="url(#dreamAura)" />
+    <rect x="215" y="34" width="460" height="44" rx="22" fill="#0D1422" fill-opacity="0.92" stroke="#F75F1C" stroke-width="1.3" stroke-opacity="0.7" filter="url(#softGlow)" />
 
-    <text x="465" y="81" text-anchor="middle" class="dream-line d-line-1">
+    <text x="445" y="61" text-anchor="middle" class="dream-line d-line-1">
       Games, AI Agents &amp; Models Builder 🚀
     </text>
-    <text x="465" y="81" text-anchor="middle" class="dream-line d-line-2">
+    <text x="445" y="61" text-anchor="middle" class="dream-line d-line-2">
       Systems, Web &amp; Interactive Worlds 🧠
     </text>
-    <text x="465" y="81" text-anchor="middle" class="dream-line d-line-3">
+    <text x="445" y="61" text-anchor="middle" class="dream-line d-line-3">
       Software, Web &amp; Creator Studio 🎥
     </text>
-    <text x="465" y="81" text-anchor="middle" class="dream-line d-line-4">
+    <text x="445" y="61" text-anchor="middle" class="dream-line d-line-4">
       C · C++ · Rust · Python · TypeScript &amp; SQL 🗄️
     </text>
   </g>
 
   
-  <text x="880" y="148" text-anchor="middle" class="hero-name" filter="url(#softGlow)">
+  <text x="875" y="106" text-anchor="middle" class="hero-name" filter="url(#softGlow)">
     Sushant Khatri
   </text>
-  <text x="880" y="184" text-anchor="middle" class="hero-sub">
+  <text x="875" y="134" text-anchor="middle" class="hero-sub">
     RUNEXEL · BUILDER &amp; CREATOR
   </text>
 
   
-  <path d="M 0 235 Q 300 221 600 238 T 1200 230 L 1200 340 L 0 340 Z" fill="url(#riverWater)" />
-  <text x="880" y="278" text-anchor="middle" class="hero-refl">
+  <path d="M 0 166 Q 300 156 600 168 T 1200 162 L 1200 240 L 0 240 Z" fill="url(#riverWater)" />
+  <text x="875" y="196" text-anchor="middle" class="hero-refl">
     RUNEXEL
   </text>
-  <line x1="780" y1="268" x2="980" y2="268" stroke="#FF8C3B" stroke-width="1.1" stroke-opacity="0.24" />
-  <line x1="805" y1="288" x2="955" y2="288" stroke="#FFD166" stroke-width="1.0" stroke-opacity="0.18" />
+  <line x1="795" y1="188" x2="955" y2="188" stroke="#FF8C3B" stroke-width="0.9" stroke-opacity="0.22" />
+  <line x1="815" y1="203" x2="935" y2="203" stroke="#FFD166" stroke-width="0.8" stroke-opacity="0.18" />
 
   
   <g class="wave-river-1" opacity="0.65">
-    <path d="M 0 248 Q 150 242 300 248 T 600 248 T 900 248 T 1200 248 T 1500 248 T 1800 248 T 2100 248 T 2400 248" stroke="url(#riverGlow)" stroke-width="1.6" fill="none" />
-    <path d="M 0 280 Q 200 272 400 280 T 800 280 T 1200 280 T 1600 280 T 2000 280 T 2400 280" stroke="#FF8C3B" stroke-width="1.2" stroke-opacity="0.35" fill="none" />
+    <path d="M 0 176 Q 150 171 300 176 T 600 176 T 900 176 T 1200 176 T 1500 176 T 1800 176 T 2100 176 T 2400 176" stroke="url(#riverGlow)" stroke-width="1.4" fill="none" />
+    <path d="M 0 198 Q 200 192 400 198 T 800 198 T 1200 198 T 1600 198 T 2000 198 T 2400 198" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.35" fill="none" />
   </g>
 
   <g class="wave-river-2" opacity="0.5">
-    <line x1="90" y1="262" x2="165" y2="262" stroke="#FFD166" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="340" y1="296" x2="440" y2="296" stroke="#FF8C3B" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="690" y1="264" x2="785" y2="264" stroke="#FFD166" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="980" y1="294" x2="1075" y2="294" stroke="#FF8C3B" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="1290" y1="262" x2="1365" y2="262" stroke="#FFD166" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="1540" y1="296" x2="1640" y2="296" stroke="#FF8C3B" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="1890" y1="264" x2="1985" y2="264" stroke="#FFD166" stroke-width="1.4" stroke-linecap="round" />
-    <line x1="2180" y1="294" x2="2275" y2="294" stroke="#FF8C3B" stroke-width="1.4" stroke-linecap="round" />
+    <line x1="90" y1="186" x2="155" y2="186" stroke="#FFD166" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="340" y1="210" x2="430" y2="210" stroke="#FF8C3B" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="690" y1="188" x2="775" y2="188" stroke="#FFD166" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="980" y1="208" x2="1065" y2="208" stroke="#FF8C3B" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="1290" y1="186" x2="1355" y2="186" stroke="#FFD166" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="1540" y1="210" x2="1630" y2="210" stroke="#FF8C3B" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="1890" y1="188" x2="1975" y2="188" stroke="#FFD166" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="2180" y1="208" x2="2265" y2="208" stroke="#FF8C3B" stroke-width="1.2" stroke-linecap="round" />
   </g>
 
   
-  <path d="M 0 222 L 235 222 Q 255 230 245 246 L 0 248 Z" fill="url(#bankGrad)" stroke="#F75F1C" stroke-width="1.1" stroke-opacity="0.45" />
+  <path d="M 0 156 L 235 156 Q 252 162 245 174 L 0 176 Z" fill="url(#bankGrad)" stroke="#F75F1C" stroke-width="0.9" stroke-opacity="0.4" />
 
-  <g transform="translate(176, 162) scale(1.25)">
+  <g transform="translate(182, 114)">
     <circle cx="14" cy="12" r="18" fill="#F75F1C" fill-opacity="0.12" />
     <circle cx="14" cy="10" r="6.5" fill="#182030" stroke="#FFD166" stroke-width="1.2" />
     <path d="M 10 17 L 20 17 L 23 32 L 8 32 Z" fill="#182030" stroke="#FF8C3B" stroke-width="1.2" stroke-linejoin="round" />
@@ -249,6 +249,6 @@
 
   
   <g class="shimmer-bar" opacity="0.7">
-    <path d="M 0 330 Q 300 322 600 330 T 1200 330 T 1800 330 T 2400 330" stroke="url(#riverGlow)" stroke-width="1.8" fill="none" />
+    <path d="M 0 234 Q 300 228 600 234 T 1200 234 T 1800 234 T 2400 234" stroke="url(#riverGlow)" stroke-width="1.5" fill="none" />
   </g>
 </svg>
