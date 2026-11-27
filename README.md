@@ -41,6 +41,7 @@
   ·  <a href="#ecosystems--builds"><b>Ecosystems</b></a>
   ·  <a href="#featured-repositories"><b>Featured Repos</b></a>
   ·  <a href="#projects--workspaces"><b>Workspaces</b></a>
+  ·  <a href="#focus--workflow"><b>Workflow</b></a>
   ·  <a href="#youtube-channels"><b>YouTube</b></a>
   ·  <a href="#licensing--ownership"><b>Licensing</b></a>
   ·  <a href="#highlights"><b>Highlights</b></a>
@@ -52,9 +53,9 @@
 ## About Me
 
 - **Architect & Creator:** Building autonomous AI agents, custom model pipelines, game engines, and full-stack web platforms on my own terms.
-- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI and full-stack web (`Python`, `TypeScript`, `JavaScript`) across GitHub and GitLab.
+- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI, full-stack web, and databases (`Python`, `TypeScript`, `JavaScript`, `SQL`, `PostgreSQL`, `MySQL`, `SQLite`) across GitHub and GitLab.
 - **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [Interstellar Nav Deck](https://SushantKhatriDev.github.io) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
-- **Ask Me About:** Game dev, AI agent orchestration, custom models, and creator setups.
+- **Ask Me About:** Game dev, AI agent orchestration, custom models, SQL schemas, and creator setups.
 
 <details>
 <summary><b>More about my philosophy & vision</b></summary>
@@ -76,28 +77,42 @@ Combining low-level systems engineering with modern AI and game design, I turn r
 <div align="center">
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/></a>
 </p>
 
-`C` · `C++` · `Rust` · `Python` · `TypeScript` · `JavaScript` · `Linux` · `HTML and CSS` · `Git`
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+</p>
+
+`C` · `C++` · `Rust` · `Python` · `TypeScript` · `JavaScript` · `Node.js`
+<br />
+`SQL` · `PostgreSQL` · `MySQL` · `SQLite` · `HTML CSS` · `Linux` · `Docker` · `Git`
 
 </div>
 
@@ -105,7 +120,7 @@ Combining low-level systems engineering with modern AI and game design, I turn r
 
 ## Ecosystems & Builds
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
@@ -114,7 +129,7 @@ Combining low-level systems engineering with modern AI and game design, I turn r
 
 Autonomous AI agents, custom model pipelines, and developer tools.
 
-`Python` · `TypeScript` · `AI`
+`Python` · `TypeScript` · `PostgreSQL`
 
 [Explore Hub →](https://github.com/Runexel)
 
@@ -126,7 +141,7 @@ Autonomous AI agents, custom model pipelines, and developer tools.
 
 Playable interactive worlds, custom mechanics, and open-source assets.
 
-`C++` · `Rust` · `GameDev`
+`C++` · `Rust` · `SQLite`
 
 [Explore Hub →](https://github.com/Sutomiuxe)
 
@@ -138,7 +153,7 @@ Playable interactive worlds, custom mechanics, and open-source assets.
 
 Full-stack web platforms, team builds, and community releases.
 
-`TypeScript` · `JavaScript` · `Web`
+`TypeScript` · `JavaScript` · `MySQL`
 
 [Explore Hub →](https://github.com/NexusFrag)
 
@@ -150,40 +165,40 @@ Full-stack web platforms, team builds, and community releases.
 
 ## Featured Repositories
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### [Interstellar Nav Deck](https://github.com/SushantKhatriDev/SushantKhatriDev.github.io)
 Interactive web navigation deck, welcome audio gate, and live workspace launcher.
 
-`TypeScript` · `JavaScript` · `HTML and CSS`
+`TypeScript` · `JavaScript` · `HTML CSS`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### [horizon (Open-Source Fork)](https://github.com/SushantKhatriDev/horizon)
-Systems and game server parity contributions for structure placement rotation and hanging entities (`#20963`, `#20985`).
+Systems parity fixes for structure placement rotation and hanging entities (`#20963`, `#20985`).
 
 `Rust` · `Systems` · `OSS`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### [Runexel Agent Pipelines](https://github.com/Runexel)
 Modular AI agent orchestration, local LLM tooling, and custom model workflows.
 
-`Python` · `TypeScript` · `AI`
+`Python` · `TypeScript` · `SQL`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### [Sutomiuxe Engine & Worlds](https://github.com/Sutomiuxe)
 Low-level game mechanics, playable prototypes, and custom interactive environments.
 
-`C++` · `Rust` · `GameDev`
+`C++` · `Rust` · `SQLite`
 
 </td>
 </tr>
@@ -195,21 +210,29 @@ Low-level game mechanics, playable prototypes, and custom interactive environmen
 
 | Project / Hub | Focus | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `TypeScript` · `JavaScript` · `HTML and CSS` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
-| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `TypeScript` · `AI` | [github.com/Runexel](https://github.com/Runexel) |
-| **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `GameDev` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
-| **NexusFrag** | Collaborative team builds and open-source web releases | `TypeScript` · `JavaScript` · `Web` | [github.com/NexusFrag](https://github.com/NexusFrag) |
+| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `TypeScript` · `JavaScript` · `HTML CSS` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
+| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `TypeScript` · `PostgreSQL` | [github.com/Runexel](https://github.com/Runexel) |
+| **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `SQLite` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
+| **NexusFrag** | Collaborative team builds and open-source web releases | `TypeScript` · `JavaScript` · `MySQL` | [github.com/NexusFrag](https://github.com/NexusFrag) |
 | **horizon (Fork)** | Structure placement entity rotation & hanging entity parity fixes (`#20963`, `#20985`) | `Rust` · `OSS` | [Commits by SushantKhatriDev](https://github.com/SushantKhatriDev/horizon/commits?author=SushantKhatriDev) |
-| **Main Portfolio** | Personal showcase, active builds, and creator overview | `TypeScript` · `JavaScript` · `HTML and CSS` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
-| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `TypeScript` · `Web` · `Full-Stack` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
+| **Main Portfolio** | Personal showcase, active builds, and creator overview | `TypeScript` · `JavaScript` · `HTML CSS` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
+| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `TypeScript` · `Node.js` · `SQL` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
 | **GitLab Mirror & Repos** | Multi-platform repositories and private/public engineering work | `C` · `C++` · `Git` | [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev) |
 | **Dev Blog** | Technical notes, build logs, and developer thoughts | `Writing` · `DevLogs` | [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/) |
 
 ---
 
+## Focus & Workflow
+
+- **Environment:** Linux-first development on Fedora with `Git`, `Docker`, and terminal workflows.
+- **Data & Storage:** Designing relational schemas and local/cloud storage across `SQL`, `PostgreSQL`, `MySQL`, and `SQLite`.
+- **Shipping Loop:** Prototype fast in `Python`, `TypeScript`, or `JavaScript`, then optimize performance-critical parts in `C`, `C++`, or `Rust`.
+
+---
+
 ## YouTube Channels
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
@@ -269,6 +292,9 @@ Game development, playable demos, and creative worlds.
     <img src="https://img.shields.io/badge/Starstruck_39_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />
   </a>
   <!-- STAR_BADGE_END -->
+</p>
+
+<p align="center">
   <a href="LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/Code-GPL--3.0-F75F1C?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL-3.0 Code License" />
   </a>
