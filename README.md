@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="typing.svg" alt="Games, AI Agents & Models Builder | Systems, Web & Interactive Worlds | Software, Web & Creator Studio" width="760" />
+  <img src="typing.svg" alt="Games, AI Agents & Models Builder | Systems, Web & Interactive Worlds | Software, Web & Creator Studio" width="100%" />
 </p>
 
 <br />
