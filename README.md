@@ -1,363 +1,327 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .title-text {
-        font-size: 54px;
-        font-weight: 800;
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        animation: fadeUp 0.9s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-      }
-      .sub-text {
-        font-size: 16px;
-        font-weight: 700;
-        font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-        animation: fadeUp 1.1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-      }
-      .pill-text {
-        font-size: 10.5px;
-        font-weight: 600;
-        font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-        animation: fadeIn 0.8s ease-out forwards;
-      }
-      .tag-text {
-        font-size: 10.5px;
-        font-weight: 500;
-        font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-        animation: fadeIn 1.3s ease-out forwards;
-      }
+<div align="center">
 
-      /* Seamless 1200px periodic horizontal water waves */
-      .wave-back {
-        animation: driftLeft 18s linear infinite;
-      }
-      .wave-mid {
-        animation: driftRight 13s linear infinite;
-      }
-      .wave-crest {
-        animation: driftLeft 10.5s linear infinite;
-      }
-      .node-pulse {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: pulseGlow 2.8s ease-in-out infinite;
-      }
-      .cluster-left {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: floatSoft 5.4s ease-in-out infinite;
-      }
-      .cluster-right {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: floatSoftReverse 6s ease-in-out infinite;
-      }
+<img width="100%" src="banner.svg" alt="Sushant Khatri — Runexel · Builder & Creator" />
 
-      /* Moon gentle breathing glow */
-      .moon-float {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: moonDrift 6.5s ease-in-out infinite;
-      }
+<p align="center">
+  <img src="avatar_ascii.svg" alt="Sushant Khatri ASCII Avatar" width="480" />
+</p>
 
-      /* Smooth continuous ship cruise + wave bobbing */
-      .ship-cruise {
-        animation: sailAcross 30s linear infinite;
-      }
-      .ship-bob {
-        transform-box: fill-box;
-        transform-origin: center bottom;
-        animation: bobShip 2.8s ease-in-out infinite;
-      }
-      .flag-wave {
-        transform-box: fill-box;
-        transform-origin: left center;
-        animation: flutterFlag 1.25s ease-in-out infinite;
-      }
+<p align="center">
+  <img src="typing.svg" alt="Games, AI Agents & Models Builder | Systems, Web & Interactive Worlds | Software, Web & Creator Studio" width="100%" />
+</p>
 
-      /* Twinkling stars */
-      .star-1 { transform-box: fill-box; transform-origin: center; animation: twinkle 3.1s ease-in-out infinite; }
-      .star-2 { transform-box: fill-box; transform-origin: center; animation: twinkle 4.2s ease-in-out 0.9s infinite; }
-      .star-3 { transform-box: fill-box; transform-origin: center; animation: twinkle 3.7s ease-in-out 1.7s infinite; }
-      .star-4 { transform-box: fill-box; transform-origin: center; animation: twinkle 4.6s ease-in-out 2.3s infinite; }
-      .star-5 { transform-box: fill-box; transform-origin: center; animation: twinkle 3.4s ease-in-out 0.4s infinite; }
-      .star-6 { transform-box: fill-box; transform-origin: center; animation: twinkle 3.9s ease-in-out 1.2s infinite; }
-      .star-7 { transform-box: fill-box; transform-origin: center; animation: twinkle 4.5s ease-in-out 2.7s infinite; }
+<br />
 
-      /* Subtle rising droplets above the wave surface */
-      .droplet-1 { animation: riseDroplet 4.4s ease-out infinite; }
-      .droplet-2 { animation: riseDroplet 5.2s ease-out 1.4s infinite; }
-      .droplet-3 { animation: riseDroplet 4.8s ease-out 2.6s infinite; }
-      .droplet-4 { animation: riseDroplet 5.6s ease-out 0.8s infinite; }
+**Independent builder and creator crafting games, AI agents, custom models, and web worlds by day—and sharing builds, devlogs, and reactions by night.**
 
-      /* Subtle expanding surface ripples */
-      .ripple-ring-a {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: rippleExpand 4.2s ease-out infinite;
-      }
-      .ripple-ring-b {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: rippleExpand 4.2s ease-out 2.1s infinite;
-      }
+<br />
 
-      @keyframes driftLeft {
-        0% { transform: translate3d(0px, 0px, 0px); }
-        100% { transform: translate3d(-1200px, 0px, 0px); }
-      }
-      @keyframes driftRight {
-        0% { transform: translate3d(-1200px, 0px, 0px); }
-        100% { transform: translate3d(0px, 0px, 0px); }
-      }
-      @keyframes sailAcross {
-        0% { transform: translate3d(-110px, 155px, 0px); }
-        100% { transform: translate3d(1260px, 155px, 0px); }
-      }
-      @keyframes bobShip {
-        0%, 100% { transform: translate3d(0px, 0px, 0px) rotate(-1.8deg); }
-        50% { transform: translate3d(0px, 2px, 0px) rotate(1.8deg); }
-      }
-      @keyframes flutterFlag {
-        0%, 100% { transform: skewY(-6deg) scaleX(1); }
-        50% { transform: skewY(8deg) scaleX(0.92); }
-      }
-      @keyframes moonDrift {
-        0%, 100% { transform: translate3d(0px, 0px, 0px); }
-        50% { transform: translate3d(0px, -3px, 0px); }
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.9; transform: scale(1); }
-        50% { opacity: 0.2; transform: scale(0.72); }
-      }
-      @keyframes pulseGlow {
-        0%, 100% { opacity: 1; transform: scale(1); }
-        50% { opacity: 0.35; transform: scale(0.85); }
-      }
-      @keyframes floatSoft {
-        0%, 100% { transform: translate3d(0px, 0px, 0px); }
-        50% { transform: translate3d(0px, -4px, 0px); }
-      }
-      @keyframes floatSoftReverse {
-        0%, 100% { transform: translate3d(0px, 0px, 0px); }
-        50% { transform: translate3d(0px, 4px, 0px); }
-      }
-      @keyframes riseDroplet {
-        0% {
-          opacity: 0;
-          transform: translate3d(0px, 0px, 0px) scale(0.7);
-        }
-        25% { opacity: 0.75; }
-        85% { opacity: 0.2; }
-        100% {
-          opacity: 0;
-          transform: translate3d(0px, -34px, 0px) scale(1);
-        }
-      }
-      @keyframes rippleExpand {
-        0% {
-          opacity: 0.55;
-          transform: scale(0.45);
-        }
-        100% {
-          opacity: 0;
-          transform: scale(1.65);
-        }
-      }
-      @keyframes fadeUp {
-        from { opacity: 0; transform: translateY(6px); }
-        to { opacity: 1; transform: translateY(0px); }
-      }
-      @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-      }
-    </style>
+<p align="center">
+  <a href="https://sushantkhatri.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=F75F1C" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/sushantkhatridev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@runexel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://gitlab.com/SushantKhatri" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://sushantkhatridev.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Dev_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+</p>
 
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080B10" />
-      <stop offset="55%" stop-color="#121824" />
-      <stop offset="100%" stop-color="#251008" />
-    </linearGradient>
+<br />
 
-    <radialGradient id="ambientGlow" cx="50%" cy="42%" r="52%">
-      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.24" />
-      <stop offset="65%" stop-color="#FF8C3B" stop-opacity="0.05" />
-      <stop offset="100%" stop-color="#080B10" stop-opacity="0" />
-    </radialGradient>
+<a href="#about-me"><b>About</b></a>
+  ·  <a href="#toolbox"><b>Toolbox</b></a>
+  ·  <a href="#ecosystems--builds"><b>Ecosystems</b></a>
+  ·  <a href="#featured-repositories"><b>Featured Repos</b></a>
+  ·  <a href="#projects--workspaces"><b>Workspaces</b></a>
+  ·  <a href="#focus--workflow"><b>Workflow</b></a>
+  ·  <a href="#youtube-channels"><b>YouTube</b></a>
+  ·  <a href="#licensing--ownership"><b>Licensing</b></a>
+  ·  <a href="#highlights"><b>Highlights</b></a>
 
-    <radialGradient id="moonHalo" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.24" />
-      <stop offset="60%" stop-color="#FF8C3B" stop-opacity="0.06" />
-      <stop offset="100%" stop-color="#FFD166" stop-opacity="0" />
-    </radialGradient>
+</div>
 
-    <linearGradient id="horizonLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0" />
-      <stop offset="25%" stop-color="#FF8C3B" stop-opacity="0.18" />
-      <stop offset="50%" stop-color="#FFD166" stop-opacity="0.32" />
-      <stop offset="75%" stop-color="#FF8C3B" stop-opacity="0.18" />
-      <stop offset="100%" stop-color="#F75F1C" stop-opacity="0" />
-    </linearGradient>
+---
 
-    <linearGradient id="waterGradBack" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#271108" stop-opacity="0.05" />
-    </linearGradient>
+## About Me
 
-    <linearGradient id="waterGradMid" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FF8C3B" stop-opacity="0.22" />
-      <stop offset="100%" stop-color="#080B10" stop-opacity="0.04" />
-    </linearGradient>
+- **Architect & Creator:** Building autonomous AI agents, custom model pipelines, game engines, and full-stack web platforms on my own terms.
+- **Stack Range:** Low-level systems (`C`, `C++`, `Rust`) to high-level AI, full-stack web, and databases (`Python`, `TypeScript`, `JavaScript`, `SQL`, `PostgreSQL`, `MySQL`, `SQLite`) across GitHub and GitLab.
+- **Workspaces:** [Main Portfolio](https://sushantkhatri.pages.dev/) · [Builder Lab](https://sushantkhatridev.pages.dev/) · [Interstellar Nav Deck](https://SushantKhatriDev.github.io) · [GitLab Group](https://gitlab.com/groups/sushantkhatridev)
+- **Ask Me About:** Game dev, AI agent orchestration, custom models, SQL schemas, and creator setups.
 
-    <linearGradient id="crestGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F75F1C" stop-opacity="0.85" />
-      <stop offset="50%" stop-color="#FFD166" stop-opacity="0.98" />
-      <stop offset="100%" stop-color="#FF8C3B" stop-opacity="0.85" />
-    </linearGradient>
+<details>
+<summary><b>More about my philosophy & vision</b></summary>
 
-    <linearGradient id="sailGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.96" />
-      <stop offset="100%" stop-color="#F75F1C" stop-opacity="0.76" />
-    </linearGradient>
+<br />
 
-    <linearGradient id="wakeGrad" x1="100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.55" />
-      <stop offset="100%" stop-color="#FFD166" stop-opacity="0" />
-    </linearGradient>
+> *"Those who can imagine anything, can create the impossible."* — **Alan Turing**
 
-    <linearGradient id="textAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F75F1C" />
-      <stop offset="52%" stop-color="#FF8C3B" />
-      <stop offset="100%" stop-color="#FFD166" />
-    </linearGradient>
+> *"Never let anyone control you or dictate what you want—walk away and move on knowing your worth, never hurt those who stood by you at your lowest, and never backstab anyone, for I would rather die in loyalty than betray; this war was never about gain, it was born of your tyranny, treachery, and rule violations."* — **Sushant Khatri**
 
-    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-width="0.6" stroke-opacity="0.03" />
-    </pattern>
+Combining low-level systems engineering with modern AI and game design, I turn raw concepts into playable worlds, autonomous agents, and web experiences while building in public with the community.
 
-    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="3" stdDeviation="7" flood-color="#F75F1C" flood-opacity="0.32" />
-    </filter>
-  </defs>
+</details>
 
-  
-  <rect width="1200" height="240" fill="url(#bgGrad)" />
-  <rect width="1200" height="240" fill="url(#techGrid)" />
-  <rect width="1200" height="240" fill="url(#ambientGlow)" />
+---
 
-  
-  <g class="moon-float">
-    <circle cx="988" cy="44" r="38" fill="url(#moonHalo)" />
-    <path d="M 994 31 A 13 13 0 1 0 996 55 A 10.5 10.5 0 1 1 994 31 Z" fill="#FFD166" fill-opacity="0.9" />
-  </g>
+## Toolbox
 
-  
-  <line x1="120" y1="168" x2="1080" y2="168" stroke="url(#horizonLine)" stroke-width="1" />
+<div align="center">
 
-  
-  <g fill="#FFD166">
-    <circle cx="240" cy="42" r="1.5" class="star-1" />
-    <circle cx="385" cy="64" r="1.2" fill="#FF8C3B" class="star-2" />
-    <circle cx="810" cy="48" r="1.5" class="star-3" />
-    <circle cx="945" cy="70" r="1.2" fill="#FF8C3B" class="star-4" />
-    <circle cx="600" cy="62" r="1.3" class="star-5" />
-    <circle cx="310" cy="36" r="1.1" fill="#FFE8C2" class="star-6" />
-    <circle cx="885" cy="36" r="1.2" fill="#FFE8C2" class="star-7" />
-  </g>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/></a>
+</p>
 
-  
-  <g class="wave-back">
-    <path d="M 0 176 C 150 156, 450 196, 600 176 C 750 156, 1050 196, 1200 176 C 1350 156, 1650 196, 1800 176 C 1950 156, 2250 196, 2400 176 L 2400 240 L 0 240 Z" fill="url(#waterGradBack)" />
-  </g>
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+</p>
 
-  
-  <g class="ship-cruise" opacity="0.96">
-    <g class="ship-bob">
-      <line x1="-26" y1="27.5" x2="12" y2="27.5" stroke="url(#wakeGrad)" stroke-width="1.3" stroke-linecap="round" />
-      <line x1="26" y1="0" x2="26" y2="21" stroke="#FFD166" stroke-width="1.35" stroke-linecap="round" />
-      <g class="flag-wave">
-        <path d="M 26 0 L 38 3.5 L 26 7 Z" fill="#F75F1C" />
-      </g>
-      <path d="M 27 6 Q 40 13 27 20 Z" fill="url(#sailGrad)" />
-      <path d="M 25 9 Q 16 14.5 25 20 Z" fill="#FF8C3B" fill-opacity="0.82" />
-      <path d="M 8 21 L 44 21 L 39 28.5 L 13 28.5 Z" fill="#181E2B" stroke="#FFD166" stroke-width="1.2" stroke-linejoin="round" />
-      <circle cx="41" cy="19.5" r="1.7" fill="#FFD166" class="node-pulse" />
-    </g>
-  </g>
+`C` · `C++` · `Rust` · `Python` · `TypeScript` · `JavaScript` · `Node.js`
+<br />
+`SQL` · `PostgreSQL` · `MySQL` · `SQLite` · `HTML CSS` · `Linux` · `Docker` · `Git`
 
-  
-  <g class="wave-mid">
-    <path d="M 0 184 C 200 202, 400 166, 600 184 C 800 202, 1000 166, 1200 184 C 1400 202, 1600 166, 1800 184 C 2000 202, 2200 166, 2400 184 L 2400 240 L 0 240 Z" fill="url(#waterGradMid)" />
-  </g>
+</div>
 
-  
-  <g opacity="0.72">
-    <ellipse cx="320" cy="196" rx="22" ry="4.5" stroke="#FF8C3B" stroke-width="1" fill="none" class="ripple-ring-a" />
-    <ellipse cx="880" cy="198" rx="26" ry="5" stroke="#FFD166" stroke-width="1" fill="none" class="ripple-ring-b" />
+---
 
-    <circle cx="290" cy="176" r="2.2" fill="#FFD166" class="droplet-1" />
-    <circle cx="520" cy="180" r="1.8" fill="#FF8C3B" class="droplet-2" />
-    <circle cx="710" cy="178" r="2.4" fill="#FFD166" class="droplet-3" />
-    <circle cx="940" cy="181" r="2" fill="#FF8C3B" class="droplet-4" />
-  </g>
+## Ecosystems & Builds
 
-  
-  <g class="wave-crest">
-    <path d="M 0 182 C 150 164, 450 200, 600 182 C 750 164, 1050 200, 1200 182 C 1350 164, 1650 200, 1800 182 C 1950 164, 2250 200, 2400 182" stroke="url(#crestGrad)" stroke-width="1.75" fill="none" />
-  </g>
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-  
-  <g class="cluster-left" opacity="0.72">
-    <circle cx="128" cy="104" r="76" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.13" stroke-dasharray="4 6" fill="none" />
-    <circle cx="128" cy="104" r="42" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.2" fill="none" />
-    <line x1="64" y1="78" x2="98" y2="92" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.26" />
-    <line x1="98" y1="92" x2="128" y2="104" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.34" />
-    <line x1="76" y1="134" x2="128" y2="104" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.22" />
-    <circle cx="64" cy="78" r="2.8" fill="#FF8C3B" />
-    <circle cx="98" cy="92" r="3.5" fill="#FFD166" class="node-pulse" />
-    <circle cx="76" cy="134" r="2.5" fill="#F75F1C" />
-    <circle cx="128" cy="104" r="3.8" fill="#F75F1C" />
-  </g>
+### Runexel
+**AI & Software Hub**
 
-  
-  <g class="cluster-right" opacity="0.72">
-    <circle cx="1072" cy="104" r="80" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.13" fill="none" />
-    <circle cx="1072" cy="104" r="46" stroke="#FFD166" stroke-width="1" stroke-opacity="0.18" stroke-dasharray="6 6" fill="none" />
-    <line x1="1072" y1="104" x2="1112" y2="86" stroke="#FF8C3B" stroke-width="1" stroke-opacity="0.3" />
-    <line x1="1112" y1="86" x2="1146" y2="116" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.25" />
-    <line x1="1072" y1="104" x2="1124" y2="138" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.22" />
-    <circle cx="1072" cy="104" r="3.8" fill="#FF8C3B" />
-    <circle cx="1112" cy="86" r="3.5" fill="#FFD166" class="node-pulse" />
-    <circle cx="1146" cy="116" r="2.8" fill="#F75F1C" />
-    <circle cx="1124" cy="138" r="2.5" fill="#FF8C3B" />
-  </g>
+Autonomous AI agents, custom model pipelines, and developer tools.
 
-  
-  <path d="M26 42 L26 22 L46 22" stroke="#F75F1C" stroke-width="1.5" stroke-opacity="0.5" fill="none" />
-  <path d="M1174 42 L1174 22 L1154 22" stroke="#F75F1C" stroke-width="1.5" stroke-opacity="0.5" fill="none" />
-  <path d="M26 156 L26 176 L46 176" stroke="#F75F1C" stroke-width="1.2" stroke-opacity="0.26" fill="none" />
-  <path d="M1174 156 L1174 176 L1154 176" stroke="#F75F1C" stroke-width="1.2" stroke-opacity="0.26" fill="none" />
+`Python` · `TypeScript` · `PostgreSQL`
 
-  
-  <rect x="448" y="21" width="304" height="24" rx="12" fill="#F75F1C" fill-opacity="0.14" stroke="#F75F1C" stroke-width="1" stroke-opacity="0.45" />
-  <circle cx="468" cy="33" r="3.5" fill="#FF8C3B" class="node-pulse" />
-  <text x="608" y="37" text-anchor="middle" fill="#FFB380" letter-spacing="1.8" class="pill-text">
-    GAMES · AI AGENTS · WEB
-  </text>
+[Explore Hub →](https://github.com/Runexel)
 
-  
-  <text x="600" y="99" text-anchor="middle" fill="#FFFFFF" filter="url(#textShadow)" letter-spacing="1.2" class="title-text">
-    Sushant Khatri
-  </text>
+</td>
+<td width="33%" align="center" valign="top">
 
-  
-  <text x="600" y="133" text-anchor="middle" fill="url(#textAccent)" letter-spacing="2.6" class="sub-text">
-    RUNEXEL · BUILDER &amp; CREATOR
-  </text>
+### Sutomiuxe
+**Game Creation Hub**
 
-  
-  <line x1="470" y1="149" x2="730" y2="149" stroke="#FFFFFF" stroke-width="0.75" stroke-opacity="0.14" />
-  <text x="600" y="166" text-anchor="middle" fill="#A5AEBF" letter-spacing="2.1" class="tag-text">
-    SOFTWARE · MODELS · INTERACTIVE WORLDS
-  </text>
-</svg>
+Playable interactive worlds, custom mechanics, and open-source assets.
+
+`C++` · `Rust` · `SQLite`
+
+[Explore Hub →](https://github.com/Sutomiuxe)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### NexusFrag
+**Collaborative Team Hub**
+
+Full-stack web platforms, team builds, and community releases.
+
+`TypeScript` · `JavaScript` · `MySQL`
+
+[Explore Hub →](https://github.com/NexusFrag)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Repositories
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### [Interstellar Nav Deck](https://github.com/SushantKhatriDev/SushantKhatriDev.github.io)
+Interactive web navigation deck, welcome audio gate, and live workspace launcher.
+
+`TypeScript` · `JavaScript` · `HTML CSS`
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### [horizon (Open-Source Fork)](https://github.com/SushantKhatriDev/horizon)
+Systems parity fixes for structure placement rotation and hanging entities (`#20963`, `#20985`).
+
+`Rust` · `Systems` · `OSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### [Runexel Agent Pipelines](https://github.com/Runexel)
+Modular AI agent orchestration, local LLM tooling, and custom model workflows.
+
+`Python` · `TypeScript` · `SQL`
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### [Sutomiuxe Engine & Worlds](https://github.com/Sutomiuxe)
+Low-level game mechanics, playable prototypes, and custom interactive environments.
+
+`C++` · `Rust` · `SQLite`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects & Workspaces
+
+| Project / Hub | Focus | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Interstellar Nav Deck** | Interactive navigation deck, welcome audio gate, and hub launcher | `TypeScript` · `JavaScript` · `HTML CSS` | [SushantKhatriDev.github.io](https://SushantKhatriDev.github.io) |
+| **Runexel** | Autonomous AI agents, custom model pipelines, and software tools | `Python` · `TypeScript` · `PostgreSQL` | [github.com/Runexel](https://github.com/Runexel) |
+| **Sutomiuxe** | Custom games, interactive worlds, and game engine experiments | `C++` · `Rust` · `SQLite` | [github.com/Sutomiuxe](https://github.com/Sutomiuxe) |
+| **NexusFrag** | Collaborative team builds and open-source web releases | `TypeScript` · `JavaScript` · `MySQL` | [github.com/NexusFrag](https://github.com/NexusFrag) |
+| **horizon (Fork)** | Structure placement entity rotation & hanging entity parity fixes (`#20963`, `#20985`) | `Rust` · `OSS` | [Commits by SushantKhatriDev](https://github.com/SushantKhatriDev/horizon/commits?author=SushantKhatriDev) |
+| **Main Portfolio** | Personal showcase, active builds, and creator overview | `TypeScript` · `JavaScript` · `HTML CSS` | [sushantkhatri.pages.dev](https://sushantkhatri.pages.dev/) |
+| **Builder Lab** | Interactive web sandbox, prototypes, and builder workspace | `TypeScript` · `Node.js` · `SQL` | [sushantkhatridev.pages.dev](https://sushantkhatridev.pages.dev/) |
+| **GitLab Mirror & Repos** | Multi-platform repositories and private/public engineering work | `C` · `C++` · `Git` | [gitlab.com/sushantkhatridev](https://gitlab.com/groups/sushantkhatridev) |
+| **Dev Blog** | Technical notes, build logs, and developer thoughts | `Writing` · `DevLogs` | [sushantkhatridev.blogspot.com](https://sushantkhatridev.blogspot.com/) |
+
+---
+
+## Focus & Workflow
+
+- **Environment:** Linux-first development on Fedora with `Git`, `Docker`, and terminal workflows.
+- **Data & Storage:** Designing relational schemas and local/cloud storage across `SQL`, `PostgreSQL`, `MySQL`, and `SQLite`.
+- **Shipping Loop:** Prototype fast in `Python`, `TypeScript`, or `JavaScript`, then optimize performance-critical parts in `C`, `C++`, or `Rust`.
+
+---
+
+## YouTube Channels
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Sutolix
+Live reactions, showcases, thoughts, and community vibes.
+
+[Watch Channel →](https://youtube.com/@sutolix)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Runexel
+AI agents, software builds, devlogs, and code breakdowns.
+
+[Watch Channel →](https://youtube.com/@runexel)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Sutomiuxe
+Game development, playable demos, and creative worlds.
+
+[Watch Channel →](https://youtube.com/@sutomiuxe)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Licensing & Ownership
+
+| Scope | License / Terms | File | Key Rules |
+| :--- | :--- | :--- | :--- |
+| **Source Code & Scripts** | **GPL-3.0** | [LICENSE](LICENSE) | Open-source copyleft; disclose source, note changes, keep GPL-3.0 |
+| **Shared Creative & Visual Assets** | **CC BY-SA 4.0** | [LICENSE-CC-BY-SA-4.0.txt](LICENSE-CC-BY-SA-4.0.txt) | Credit **Sushant Khatri**, note modifications, share under CC BY-SA 4.0 |
+| **Personal Quotes & Reserved Works** | **All Rights Reserved** | [ALL-RIGHTS-RESERVED.txt](ALL-RIGHTS-RESERVED.txt) | Held solely by **Sushant Khatri**; no reuse or remix without written permission |
+
+---
+
+## Highlights
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/SushantKhatriDev?achievement=yolo&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/YOLO-Achieved-F75F1C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement" />
+  </a>
+  <a href="https://github.com/SushantKhatriDev?achievement=pull-shark&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Pull_Shark-Achieved-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" />
+  </a>
+  <a href="https://github.com/SushantKhatriDev?achievement=quickdraw&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Quickdraw-Achieved-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw Achievement" />
+  </a>
+  <!-- STAR_BADGE_START -->
+  <a href="https://github.com/SushantKhatriDev?achievement=starstruck&tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Starstruck_39_Stars-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck Achievement" />
+  </a>
+  <!-- STAR_BADGE_END -->
+</p>
+
+<p align="center">
+  <a href="LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GPL--3.0-F75F1C?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL-3.0 Code License" />
+  </a>
+  <a href="LICENSE-CC-BY-SA-4.0.txt" target="_blank">
+    <img src="https://img.shields.io/badge/Creative%20Media-CC%20BY--SA%204.0-FF8C3B?style=for-the-badge&logo=creativecommons&logoColor=white" alt="CC BY-SA 4.0 Creative License" />
+  </a>
+  <a href="ALL-RIGHTS-RESERVED.txt" target="_blank">
+    <img src="https://img.shields.io/badge/Reserved%20Works-All%20Rights%20Reserved-24292F?style=for-the-badge" alt="All Rights Reserved" />
+  </a>
+</p>
+
+<br />
+
+<a href="https://github.com/SushantKhatriDev?tab=repositories">
+  <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star" />
+</a>
+
+<br /><br />
+
+<a href="https://sushantkhatri.pages.dev/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=SushantKhatriDev&label=PROFILE+VIEWS&color=F75F1C&style=for-the-badge" alt="Profile Views" />
+</a>
+
+<br /><br />
+
+<sub><b>My vision. My rules.</b> · Loyalty over backstabbing · Built in public across games, AI, and web.</sub>
+<br />
+<sub>Solely created & owned by <b>Sushant Khatri</b> (<b>SushantKhatriDev</b> / <b>Runexel</b>) · Code: <a href="LICENSE">GPL-3.0</a> · Shared Art/SVGs: <a href="LICENSE-CC-BY-SA-4.0.txt">CC BY-SA 4.0</a> · Quotes & Reserved Works: <a href="ALL-RIGHTS-RESERVED.txt">All Rights Reserved</a>.</sub>
+
+</div>
